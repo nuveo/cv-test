@@ -1,13 +1,18 @@
-# Computer Vision test
+For each image I made a script, then just run the script and the output will be saved on a .txt.
 
-This repo has 3 document files. Please, develop  a script or program using language as more conformable for you to extract text as max as possible that you can. We don't expect extract all text in these images, we would like to know a little bit about your developer skill and computer vision. 
+1. TO RUN
+    1.1 Dependencies:
+            python 3.6
+            tesseract 4.0 (windows version)
+            run "pip install -r requeriments.txt" to install other dependencies
 
-# Instructions
+    1.2 Extract text
+        python testx.py img_path txt_path tesseract_path
+        Run: Example for test2
+            python test2.py images\test2.jpg test2.txt "C:/Program Files (x86)/Tesseract-OCR/tesseract.exe"
 
-Fork this project in the a private project and create a branch. When you want to our review, create a PR and put any information that you think is important. Consider we follow your instructions to run your code and look the outcome.
+    1.3 Old names:
+        coroatá-3.jpg -> images\test1.jpg
+        emory1877_0002.jpg -> images\test2.jpg
+        3320114_2_0002.jpg -> images\test3.jpg
 
-
-# Tip
-
-* Don't need to delivery optimization script/software
-* It's better if you use opensource tools and libraries
