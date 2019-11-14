@@ -6,6 +6,9 @@ This work was developed and tested in a system with a processor AMD Ryzen 1800X,
 $> conda create -n nuveo python=3.6
 ```
 ```
+$> conda activate nuveo
+```
+```
 $> conda install -c conda-forge opencv
 ```
 ```
