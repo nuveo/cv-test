@@ -33,12 +33,16 @@ for path in image_names:
     edges = cv2.Canny(denoised, 50, 200)
 
     # In order to detect orientation the lines of text are estimated
-    lines = cv2.HoughLinesP(edges, 1, math.pi/180.0, 100, minLineLength=w/3, maxLineGap=10)
+    lines = cv2.HoughLinesP(edges, 1, math.pi/180.0, 100, minLineLength=w/3, maxLineGap=20)
+
+    if lines is None:
+        denoised = cv2.bitwise_not(denoised)
+        images.append(denoised)
+        continue
 
     angles = []
 
     for x1, y1, x2, y2 in lines[0]:
-        #cv2.line(denoised, (x1, y1), (x2, y2), (255, 0, 0), 3)
         angle = math.degrees(math.atan2(y2 - y1, x2 - x1))
         angles.append(angle)
 
@@ -60,4 +64,4 @@ images = np.array(images)
 
 
 for name, image in  zip(image_names, images):
-  cv2.imwrite(writing_dir+str(name)+'.png',image)
+  cv2.imwrite(writing_dir+str(name),image)
