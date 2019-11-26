@@ -25,7 +25,6 @@ python3 denoiser.py
 ```
  
  
- 
 ## Built With
  
 * [Numpy](https://numpy.org/) - Used to some of the number crushing
