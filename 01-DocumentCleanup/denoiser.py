@@ -3,7 +3,6 @@ import math
 import os
 
 import numpy as np
-import matplotlib.pyplot as plt
 
 images_path = "noisy_data/"
 writing_dir = "denoised_data/"
@@ -36,7 +35,7 @@ for path in image_names:
 
     median_angle = np.median(angles)
 
-    
+
     center = (w // 2, h // 2)
     M = cv2.getRotationMatrix2D(center, median_angle, 1.0)
     rotated = cv2.warpAffine(denoised, M, (w, h),
