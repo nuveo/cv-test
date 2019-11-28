@@ -10,9 +10,9 @@ import tensorflow_addons as tfa
 
 
 
-image_width = 400
-image_height = 200
-embeddings_size = 128
+image_width = 200
+image_height = 100
+embeddings_size = 256
 n_classes = 4
 input_shape = (1,image_height, image_width)
 
@@ -30,17 +30,18 @@ disguise_image_names = os.listdir(disguise_path)
 
 names = [reference_image_names, simulated_image_names, genuine_image_names, disguise_image_names]
 
+
 images = []
 labels = []
 
 for directory, type in zip(paths, names):
-    for name, label in zip(type, range(n_classes)):
-        print(directory+name)
-        img = cv2.imread(directory+name)
-        img = cv2.resize(img,(image_width,image_height))
-        img = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
-        images.append(img)
-        labels.append(label)
+    for label in range(n_classes):
+        for name in type:
+            img = cv2.imread(directory+name)
+            img = cv2.resize(img,(image_width,image_height))
+            img = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
+            images.append(img)
+            labels.append(label)
 
 
 pre_training_images = np.array(images)/255
@@ -58,25 +59,19 @@ X_train, X_test, y_train, y_test = train_test_split(pre_training_images, pre_tra
 
 
 embedder = tf.keras.Sequential([
-    tf.keras.layers.Conv2D(filters=128, kernel_size=2, padding='same', activation='elu', input_shape=input_shape),
+    tf.keras.layers.Conv2D(filters=64, kernel_size=2, padding='same', activation='elu', input_shape=input_shape),
     tf.keras.layers.MaxPooling2D(pool_size=2, padding='same'),
-    #tf.keras.layers.Dropout(0.3),
-    tf.keras.layers.Conv2D(filters=64, kernel_size=2, padding='same', activation='elu'),
-    tf.keras.layers.MaxPooling2D(pool_size=2, padding='same'),
-    #tf.keras.layers.Dropout(0.3),
     tf.keras.layers.Conv2D(filters=32, kernel_size=2, padding='same', activation='elu'),
     tf.keras.layers.MaxPooling2D(pool_size=2, padding='same'),
-    tf.keras.layers.Conv2D(filters=16, kernel_size=2, padding='same', activation='elu'),
-    tf.keras.layers.MaxPooling2D(pool_size=2, padding='same'),
     tf.keras.layers.Flatten(),
-    tf.keras.layers.Dense(embeddings_size, activation='linear'), # No activation on final dense layer
+    tf.keras.layers.Dense(embeddings_size, activation='linear'),
     tf.keras.layers.Lambda(lambda x: tf.math.l2_normalize(x, axis=1)) # L2 normalize embeddings
 ])
 
 
 # Compile the model
 embedder.compile(
-    optimizer=tf.keras.optimizers.Adam(),
+    optimizer=tf.keras.optimizers.Adam(0.001),
     loss=tfa.losses.TripletSemiHardLoss(), metrics = ['mse'])
 
 
@@ -85,7 +80,9 @@ checkpoint_callback = tf.keras.callbacks.ModelCheckpoint(
     save_best_only=True, save_weights_only=True,
     save_frequency=1)
 
+
 # Train the network
-history = embedder.fit(
-    X_train,y_train, validation_data = (X_test, y_test),
-    epochs=2, callbacks=[checkpoint_callback])
+history = embedder.fit(X_train, y_train,
+                       validation_data = (X_test, y_test),
+                       epochs=70, callbacks=[checkpoint_callback]
+                       )

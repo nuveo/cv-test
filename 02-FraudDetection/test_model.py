@@ -7,17 +7,14 @@ import numpy as np
 import tensorflow as tf
 
 
-
-image_width = 400
-image_height = 200
-embeddings_size = 128
+image_width = 200
+image_height = 100
+embeddings_size = 256
 n_classes = 4
 input_shape = (1,image_height, image_width)
 
-
 #### Testing
 questioned_path = "TestSet/Questioned/"
-
 
 questioned_image_names = os.listdir(questioned_path)
 
@@ -35,29 +32,22 @@ images = np.reshape(images, (-1,1,image_height, image_width))
 
 
 
-
-
 embedder = tf.keras.Sequential([
-    tf.keras.layers.Conv2D(filters=128, kernel_size=2, padding='same', activation='elu', input_shape=input_shape),
+    tf.keras.layers.Conv2D(filters=64, kernel_size=2, padding='same', activation='elu', input_shape=input_shape),
     tf.keras.layers.MaxPooling2D(pool_size=2, padding='same'),
-    #tf.keras.layers.Dropout(0.3),
-    tf.keras.layers.Conv2D(filters=64, kernel_size=2, padding='same', activation='elu'),
-    tf.keras.layers.MaxPooling2D(pool_size=2, padding='same'),
-    #tf.keras.layers.Dropout(0.3),
     tf.keras.layers.Conv2D(filters=32, kernel_size=2, padding='same', activation='elu'),
     tf.keras.layers.MaxPooling2D(pool_size=2, padding='same'),
-    tf.keras.layers.Conv2D(filters=16, kernel_size=2, padding='same', activation='elu'),
-    tf.keras.layers.MaxPooling2D(pool_size=2, padding='same'),
     tf.keras.layers.Flatten(),
-    tf.keras.layers.Dense(embeddings_size, activation='linear'), # No activation on final dense layer
+    tf.keras.layers.Dense(embeddings_size, activation='linear'),
     tf.keras.layers.Lambda(lambda x: tf.math.l2_normalize(x, axis=1)) # L2 normalize embeddings
 ])
 
+
+
 classifier = tf.keras.Sequential([
-    tf.keras.layers.Dense(256, activation='elu', input_shape=(embeddings_size,)), # No activation on final dense layer
-    tf.keras.layers.Dense(64, activation='elu'), # No activation on final dense layer
-    tf.keras.layers.Dense(32, activation='elu'), # No activation on final dense layer
-    tf.keras.layers.Dense(n_classes, activation='softmax'), # No activation on final dense layer
+    tf.keras.layers.Dense(16, activation='elu', input_shape=(embeddings_size,)),
+    tf.keras.layers.Dense(8, activation='elu'),
+    tf.keras.layers.Dense(n_classes, activation='softmax'),
 ])
 
 
