@@ -1,3 +1,11 @@
+# My proposed solution
+For each problem I created a notebook inside each folder. My proposed solution for each problem is explained in detail in the notebook. Please read them.
+- 01-DocumentCleanup.ipynb
+- 02-FraudDetection.ipynb
+
+The model in h5 file for **Fraud detection** problem is in the link: https://drive.google.com/open?id=1jo8D04XrvstvAQhcaSQWaCT8ML2fDTL5
+
+
 # Computer Vision and Machine Learning test
 
 This repository has two tests that comply with the Computer Vision and Machine Learning expertise testing procedures. Each test has its own set of files, parameters and strategies to be solved. Therefore, choose the most appropriate solving method in each situation.
