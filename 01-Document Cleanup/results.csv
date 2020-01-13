@@ -1,0 +1,1701 @@
+,File,Phrase
+0,noisy_data/179.png,
+1,noisy_data/74.png,
+2,noisy_data/168.png,
+3,noisy_data/14.png,
+4,noisy_data/71.png,"st soveral rothods to design forcs with 14
+cagtance, fields aay be surrounded by bounding bores, 1
+guiding rulers. These tethods specify here v0 write
+the offect of ores and overlapping with other parts of
+can be-_Jocated on a separate sheet of paper that is lo
+they con bo printed directly on the fara- The use of |
+jis ruch bottor froa the point of viov of the quality 0
+requires giving pore instructions and, nore important]:
+tasks uhere this typo of acquisition is used. Guiding
+are nore comonly used for this resson., Light rctang
+‘ith filtere than dark Lines whenever the handy
+
+There exi:
+
+easily"
+5,noisy_data/129.png,
+6,noisy_data/144.png,"c spatia’
+
+arg several classi
+hn frequency noist
+
+dian filter and
+The me
+
+Ther
+or eliminating hig!
+mean filters the me
+
+frequently used.
+oothing filter that re
+ighborhood mean.
+tHe image ed¢
+of the
+
+filter are
+lowpass or sm
+values with the ne
+image noise but blurs
+filter calculates the median
+for each pixel, thereby reducing tt
+Finally, the opening closing filter
+morphological filter that combines"
+7,noisy_data/185.png,
+8,noisy_data/206.png,"There exist severa}imethode to deaign forn
+filled in. For instance, fields may be curre
+by light rectangles or by guiding rulere. Tt
+where to write and, therefere, minimize the «
+with other parts of the form. These guides «
+separate oheet of paper that is located belov
+be printad directly on the form. The usc of’
+sheet is much better from the point of viow «
+scanned image, but requires giving more instz
+veetricts its use to taske where this type of
+Gaiding rulers printed on the form are more «
+reason. Light rectangles can be removed more
+than dark lines whenever‘the handvritten text
+Wevertheleas, other practical iggias must be
+The beot vay to print these Light rectangles"
+9,noisy_data/137.png,
+10,noisy_data/26.png,"There exist several methods to design forms with fields to
+fields may be surrounddl by bounding boves, by light rectangles «
+methods specify where to write and, therefore, minimize the effer
+with other parts of the form. Theée guides can be located on 2 s
+ie located below the for or they cav be printed alrectly onthe fa
+separate sheet is much better from the point of view of the quality
+requires giving move instructions and, more important restricts
+type of acquston i used. Guiding rules printed onthe form ae n
+reason. Light vectangles can be removed more easily with filters th
+handwritten text toaches the rulers. ‘Nevertiveless, other practical
+
+‘account! The best way to print these light rectangles is in a differ"
+11,noisy_data/105.png,
+12,noisy_data/42.png,
+13,noisy_data/69.png,
+14,noisy_data/198.png,
+15,noisy_data/44.png,"There exist several methods to design forms with fields to
+Teds may be surrounded by bounding boves, by ight rectangles «
+methods specify where to write and, therefore, minimize the effec
+with other parts of the form. These guides can be located on a.se
+is located below the form or they can be printed directly on the for
+Separate sheet is much better from the point of view of the quality
+Fequires giving more instructions and, more importantly, restricts
+“type of acquisition is used, Guiding rulers printed on the form are mr
+
+reason. Light rectangles can be removed more easly with filters tt
+handwritten text touches the rulers, Nevertheless, other practical
+
+account: The best way to print these light rectangles is in a differ"
+16,noisy_data/95.png,"There exist several methods to design:
+to be filled in. For instance, fields may t
+bounding boxes, by light rectangles. or b
+Thesé methods specify where to write and
+mize the effect.of skew and overlapping w:
+the form. These guides caurbe located on a
+Paper that is located below the form or tb!
+directly on the form. The use of guides ot!
+is much better from the point of view of t
+scanned image, but,requires giving more
+more importantly, restricts its nse to task °"
+17,noisy_data/39.png,
+18,noisy_data/167.png,"‘There exist several methods to design forms with fi
+Instance, fields may bo surrounded by bounding boxt
+or by guiding rulers. ‘These methods specify where tc
+minimize tbe Ellectol sew and overlapping with ot!
+‘These gitides can be leestod-on-a sopatate sheet of
+below the form or they can be-printed directly on ¢
+guides on a separate sheot Is much better from the
+Quality of the scanned image, but requires giving n
+more importantly, restricts its nse to-Laska whore th
+is used. Guiding rulers printed on the form are inot
+this reason. Light rectangles can be removed more ¢
+dark lines whenever the handwritten text touches the
+other practical issues mnat-be taken into account: ‘1
+these light rectangles 18 in a different color (i.c. <li
+this approach is more expensive than printing grey 1"
+19,noisy_data/120.png,"Thére are several classic spatial filters for
+inating high frequency noise from images. ...,
+the mediam-filter_and the closing opening-fi ,
+used” The mean filter is-a_lowpass or smc -
+replaces the pixel values with the neighbort-
+duces the image noise but blurs the image e_
+filter calculates the median of the pixel neig'
+pixel, thereby reducing the blurring effect. Fi
+closing filter is a mathematical morphologic =
+bines the same number of erosion and dilat
+pcpelations|y in ed to eliminate smal] objec!"
+20,noisy_data/59.png,"ietds nag. be gurrounded
+hese methods specify to. write
+af she ond Mrertagping vite othe ports of
+ted on 0 separate rect of poper that * lo
+ed divecty o THE fora. ™me we of
+ter fron the powte of view of te quality &
+ore instruct t0ns yea, nore exponent!
+ig used. viding
+
+   
+
+vin
+this type oF oquisttion 18 *
+Lagnd rectond
+
+‘ers than dark Lines whenever the handy"
+21,noisy_data/72.png,"a} classic spatial 1116
+
+There are sear
+
+sroquency noise £100 380808 he aoan filter) the ood
+
+opening filter are éroquenty useds Te 280 iiiter 4
+‘th the neighbo:
+
+pirel values #3!
+
+ut blurs the Amoge dg25- The nedion
+
+the pixel neighborhood tor each pizel, thereby rod
+
+citer is a socbecotical |
+
+oabinos the sare nATbAE of erosion:and dilation orp!
+fo elizinate sual objects fron images.
+
+as to vrein a neural net¥ors ina st
+
+‘The pain goal #
+a ebean dage £08 6 00387 HPs Tn this particular ce"
+22,noisy_data/152.png,"There exist several methods to design forms with,
+For instance, fields may be ourrounded by bounding bo:
+or by guiding rulers. These methods specify where Le
+
+maininbize the effect of skew and overlapping with ou
+These guides con be located on
+
+ 
+
+separate sheet of pape
+the form or they can be printed directly on the form
+\a separate sheet is mucl
+
+ 
+
+better from the point of vier
+scanned image, but requires giving more instructions «
+
+restricts its use to laska where this type of acquisit
+rulers printed on the form are more commonly used
+‘rectangles can be removed more ensily wilh filters tha
+the handwritten lext touches the rulers: Nevertheless.
+must be taken into account: The best way to print.
+is in a different color (i.e. light yellow): however, +
+expensive than printing aray rectangles will black-are"
+23,noisy_data/123.png,"There are several classic spatic
+or eliminating high frequency noig
+The mean filter, the median filter
+opening’ filter are frequently used
+ts 4 lowpass or smoothing filter ¢
+pivel values with the neighborhood
+{the image noise but blurs sthe imag
+filter calculates the median of th
+for each pizel, thereby reducing t
+Finally, the opening closing filte
+
+» morphological filter that combines"
+24,noisy_data/188.png,"several methods to desi
+may be surrounded by bounding boxes.
+
+These methods specify where to write al
+‘with other parts of t
+
+There exist
+instance, fields
+
+guiding rulers.
+the effect of skew and overlapping,
+‘can be located on 2 separate sheet of paper that is loct
+
+they can be printed directly 07 the form, The use of gut
+‘ig much better from the pont of view of the quality of t
+requires giving more instructions and, more importantly, !
+where this type oF ‘acquisition is used- Guiding rulers P
+vrre commonly used for this reso Light rectangles
+city with flvers than dark Hines whenever the handwt
+fulers. Nevertheless, other practical issues must Dé tal
+est way to print these Tight rectangles is in a different ¢
+however, this approach is more expensive than printin:
+black-and-white laser printers ‘A more economical anc"
+25,noisy_data/189.png,"| classic spatial filters for reducing | :
+quency noi The mean fiter, the medial -
+opening, filter are frequently used. The mean filter is 3
+Pheer that replaces the pivel ValMES with the neighborhoo
+image noise but blars the imaBe edges. The median fits:
+uF che pixel neighborhood for ‘cach pixel, thereby reduc
+Finally, the opening, closing filter is a mathematical ™
+Fitmpines the same number OF erosion and dilation mor
+Seder to eliminate small object5 from images:
+
+“The main goal was to train neural netvork in a Up?
+a dean image from 3 noisy one In this particular €25€-
+Sprain a simulated noisy Image from a clean one that
+oisy images. The process for obtaining simulated NO
+chee: ‘This process requires images of the backsrout
+the acquisition forms, which were ‘obtained by printing +
+
+There are several
+ise from images"
+26,noisy_data/101.png,"There
+be filled ji
+INE boxes, by
+
+exist Severs] Methods to design fo
+In. For instance, fields may be surp,
+light rectangles or by Suiding
+Ods Specify where and, therefore, Qn
+Of skew ang Overlappi; il
+Buides can be located
+
+Of View of th
+Dut requires. gi
+restricts its use to tasks whe
+
+re this type of g"
+27,noisy_data/29.png,
+28,noisy_data/17.png,"There exi forms with fd
+fly tay beg ea a ltt team
+These methods EY where ty, tite
+~_e ith other
+
+ 
+
+and, there lore, ining
+
+ol the fon, 1 ""S° Sides can
+
+sheet Per that js located below the form or they cay b
+
+fom, Te IS Of guides EePArate sheet is my ch better frgy
+
+‘aay thea lage, Tequir: ""= giving more re Instructig
+
+estricts its US to tasks where this © OF acquisition ty used,
+
+the form ae ay Somonly se i this reawy, Light te
+
+Mare eacily Uh filters than ¢, whenever the bandwith
+Nevertie ot tical jg, the taken int"
+29,noisy_data/8.png,"to design OT ath fields €
+ves, by Gall revtonales °
+rise the oe"
+30,noisy_data/50.png,
+31,noisy_data/83.png,"There exist several methods to design
+
+40 be filled in. For instance, fields may
+
+bounding: bowes, by light rectangles .or b
+Thes€ methods specify where to write and
+mice the effect.of skew and.overlapping w
+the form. These guides can be located on a
+paper that is located below the jorni or th
+directly on the form. The use of guides or
+
+1s much better from the potnt of view of
+scanned image,
+
+    
+
+but requires yiviny more
+‘more importantly, restricts-its use to taske"
+32,noisy_data/104.png,"There exist Several methods to design fo
+be filled in. For instance, fields may be surn
+ing boxes, by light rectangles or by guiding r+
+ods specify where to write and, therefore,
+of skew and overlapping with other parts 0;
+guides can be located on a Separate sheet
+located below the form or they can be print
+form. The use of Suides on a separate she
+from. the point of view of the quality of tt
+but requires giving more instructions and,
+restricts its use to tasks where this type of 4"
+33,noisy_data/96.png,
+34,noisy_data/60.png,"There are oeveral classic spatial fitters for reduc
+Jrequency noise from ‘images.
+
+The mean filter, the ned
+‘ening filler ore frequently used, The meen fitter i
+Setter that replaces the pizel valves uith the netghbo
+
+dnage noise but Biurs the ‘mage edges, The median
+of thé pisel neighborhood for each Pivel, thereby redy
+Finally, the opening ctoaing filter 4s q mathenatical ,
+combines Uhe sane number of erosion-and atLation morph,
+‘o-elininate small objects fran indges,
+
+The main goat uss to train a neural netvork in a 5
+@ clean inage fron «
+
+notoy one. In this particular og"
+35,noisy_data/24.png,
+36,noisy_data/122.png,
+37,noisy_data/143.png,"There exist several methods to di?
+
+fields.to be filled in. For instar _
+be surrounded_by bounding boxes, by
+
+or by guiding rulers: These methoc
+to write and, therefore, minimize t
+and overlapping with other parts of
+- guides can be located on\a separate
+that is located below the form or t
+directly on the form. ‘The use of ¢
+sheet is much better from the point
+quality of the scanned image, bat 1"
+38,noisy_data/57.png,
+39,noisy_data/20.png,"cerloping ©
+eet of PAPE that
+‘ ye use of sudo
+quality af the
+ie tasks whee
+
+  
+
+re coal
+eles"
+40,noisy_data/197.png,
+41,noisy_data/146.png,
+42,noisy_data/33.png,"There are several classic spatial filters for reducing oF efirnin
+from images The mean filter, the median filter and the closing 0
+used. The mean filter is a lowpass oF smoothing filter that replact
+neighborhood mee” “duces the image NOB ‘ut blurs the imag
+caleuiates the median of the pire! neighborhood or each pine,
+effect. Finally he opening cosine, Her ig a mathematical ‘morphic
+the same umber of erosion and dilation morphological operations
+objects from images.
+The main goa! W35
+na noisy One
+n one tl
+
+jerwork in 3 supervised
+
+to train a aera 0
+image from in this particular C25 jt was much easier
+shan to clean 2 subset of noisy images.
+
+image from a cle"
+43,noisy_data/194.png,
+44,noisy_data/75.png,
+45,noisy_data/54.png,"ap fitters for reas
+veon jotter, the wed
+The mean sorter +
+he neighbo
+| The median
+1, theredy rede
+
+frequency n2#8e
+opening fetter are frequently
+
+salter that replaces the pisel"
+46,noisy_data/128.png,"There exist “eVeral methods to ¢
+Fields to pe fillea
+
+ded by dounding bone.
+oP bY guiding Tuler,
+
+tn,
+be Surroun,"
+47,noisy_data/173.png,"Guiding rulers p
+ce Commonly used for this reason. Light rectangles
+easily with filters than dark lines whe"
+48,noisy_data/203.png,"‘There exist-several methods to design form
+salled in. For tnetance, fields may be sur:
+dy Light rectangles or by guiding rulers, 7?
+where to write and, therefore, minimize the ¢
+with olher-parts of~the form, - These guides «
+separate sheet of paper that ig located belo:
+be printed directly on the form, The use of
+aheet is much belter from the point of view «
+scanned image, but requires giving-more inoti
+restricts ito use to tasks where this type o;
+Guiding rulers printed on the form are more «
+reason. Leght rectangles can be removed mort
+than dark Lines uhenever the handwritten tec:
+Nevertheless, other practical issues mst de
+The dest way to print these Light rectangles"
+49,noisy_data/111.png,"There are several classic spatial filters for. .
+inating high frequency noise from images.
+the median filter and the closing opening fili
+used. The mean filter is a lowpass or smc
+replaces.the pixel.values with the neighbor -
+duces the image noise but blurs the image er
+filter éalculates the median of the: pixel neigl=
+"" pixel, thereby reducing the blurring effect. Fi
+closing filter is a mathematical morphologic =
+bines the same number of erosion and dilat
+
+operations in order to climinate small objec:"
+50,noisy_data/192.png,"There are several classic spatial fiters for reducing ¢ -
+Guency noise from images. The mean filter, the mediar
+Opening filter are frequently used. The mean filter is +
+filter that replaces the pixel values with the neighborhoo
+
+” image néise but blurs the image edges. The median filte
+Of the pixel neighborhood for each pixel, thereby reduc
+Finally, the opening closing filter is'a mathematical wn
+
+combines the same number of erosion and
+
+order to eliminate small objects from images _
+
+The main goal was to train g neural nebwork in a supet
+
+2 clean image from a noisy one. In this particular case,
+
+Obtain a simulated noisy image
+
+noisy images. The process for
+
+scheme: This process 11
+the acquisition forms,
+
+dilation morg
+
+obtaining simulated noi
+equires images of the backgrour
+which were obtained by printing +"
+51,noisy_data/153.png,
+52,noisy_data/21.png,"ion moxphol
+objects from, inmages,
+
+Tn Si Ws to train a neural ety
+itmoge fom a noisy one, fy thls particular ca
+Holey mage frou a clan one than to clean
+
+ 
+
+ork ina super Vised
+we, it was much ea
+8 subset of noiey"
+53,noisy_data/38.png,"There exist several methods to design forms with fields to
+fields may be suraueded by tounding boves, by light rectangles «
+methods specify where to write and, therefore, minimize the effec
+with other parts of the'form. Theke Guides can be located on a x
+is located below the form or they can be printed directly on the fo
+‘separate sheet is much better from tie point af view of the quality
+requires giving more instructions and, more importantly, restricts
+type of acquisition is used. Guiding rulers printed on the form are m
+reason Light rectangles can be removed more easily with filler th
+handwritten text touches the rulers. Nevertheless, other practical
+account: The hest way to print these light rectangles isin a difler"
+54,noisy_data/149.png,"‘There
+For inslunce
+
+   
+
+st scveral methods Lo design forms with,
+fields may be surrounded by bounding bo:
+or by guiding rulers. These methods specify where te
+minimize the effect of skew and overlapping with ot}
+These guides can be located on a separate sheet of pape
+the form or they can be printed directly on the form.
+
+@ separate sheat is much better from the point of vier
+
+scanned image, bul requires giving more instructions a
+
+restricts its use to tasks where this type of acquisit
+rulers printed on the form a1
+
+ 
+
+e more commonly used
+rectangles can. be removed more easily with filters tha
+
+the handwritten text touches the rulers. Nevertheless,
+must be taken into account: The best way to print
+is ina different color (ie, tight yellow); however, 1
+expensive than printing gray rectangles with blac"
+55,noisy_data/86.png,
+56,noisy_data/147.png,"There are several classic spatial filters for reducit
+frequency noise from images. The mean filter, the
+‘cloning opening filler are frequently used. The mean
+smmoniking filter that replaces the pérel values with Ut.
+Te reduces fhe ‘nage noise but blurs the image edge
+‘caleniates the mediart of the pizel neighbovioot for cac
+ing the blurring effect, Finally, theopepling closing fi
+
+Ueut combines the sene dun
+
+ 
+
+ 
+
+_ morphological filter
+* uorphelogical operations in onter to clingingic small «
+
+‘he mnain goal was to train a newnab network in a
+obtain a clean image from a noisy ort. In lis parties
+tasier to obtain a simulated noisy image fr
+
+‘subset of noisy images. The process for oblaining st
+ollows this scheme: This process reiruires tmoges of
+eetanales) of the acquisition formas. which were obl
+
+nber 0
+
+ 
+
+‘om a. chew"
+57,noisy_data/36.png,"There are several classic spatial filters for reducing or climin
+from images, The mean filter, the median filter and the closing 0
+used. The mean filter is a lowpass or Smoothing filter that. ‘replace
+neighborhood mean {t feduces the image noise but blurs the imay
+Calculates the medion of the pixel neighborhood for each pivel, th
+effect. Finally the pening closing fitter is 2 mathematical morphe
+the same number of erosio
+
+and dilstion morphological operations
+objects from images,’ -
+The main goal was to train
+
+image from a noisy one. ta this p
+image from a clean one than to
+
+2 neural necwork in a supervised
+articular case, it was much easier
+clean a subset of noisy images."
+58,noisy_data/9.png,"5s for racing oF elit
+ter end the sing &
+
+from images. The mean,
+fier thal rep
+
+vised, The mean filler Is
+ze nebo! mica. fi reduces ‘he image noise Out brs the
+od for exch t
+
+lates the medi
+sosing filter és 4 enother
+
+it, Finally. Ure opening ©
+he same nusber of easan and dit morpho
+
+fo eliminate small objects from imag}
+The main goal wos Co train 0 nel
+mage from a noisy oe. I this partic
+ae than to clean a $0!
+
+ving image frm cleo 0
+
+lassie spotial filter
+filter, the medion
+
+‘There are several ct
+«a foupass or smooling
+
+ 
+
+filter ecleal
+blurring fe
+
+that combines
+eS.
+ina supervise
+
+ra network
+alur evse, df was auch €
+set of noisy"
+59,noisy_data/212.png,
+60,noisy_data/98.png,"There exist Several Methods to
+be filled in For instance, fields m;
+ing boxes, by light recta
+ods specify where to
+
+design fo
+lay be surn
+
+MBIes OF by guiding r.
+write and, u"
+61,noisy_data/213.png,
+62,noisy_data/134.png,"re exist seyeral methods to di
+
+fields to be filled in. For instar
+ed by bounding boxes, by”
+or by guiding rulers. These methoc
+to write and, therefore, minimize t
+and overlapping with other parts of
+* guides ‘can be located on a separate
+hat is located below the form oF t
+directly on the form.» The use of £
+sheet is much better from the point
+quality of the scanned image, ‘but 1
+
+The:
+
+be surround"
+63,noisy_data/138.png,"There arg sey,
+or eliminatin,"
+64,noisy_data/41.png,"forms with fields to
+by light rectangles ¢
+
+There exist several methods *9 design
+mize te ef
+
+felds may be surounded by bounding bo¥8,
+
+methods speciy where 19 WFRE and, therefore, mil
+jdes can be located on a st
+
+with other parts 0!
+
+-an be printed directly on the fo
+the glnt of view of the qaly
+re instructions ands rantly, restricts
+
+jnted on the form are M™
+easily with filters UF
+
+the rulers. Nevertheless, other practical
+
+hhanditten text souches
+account The best #ay 12 print these light rectangies in 2 dilfen"
+65,noisy_data/6.png,"There a7 evr 0s
+Sy nea file
+
+fom inne es.
+ihe mo eS io
+the i meat. [hve
+et mulls HE
+Fria ee prinoll
+tl cs Sc
+Mts om me
+in on"
+66,noisy_data/207.png,"‘here are several classic spatial filvers
+high frequency noise from imagos. The mean 1
+and the closing opening filtor are frequently
+4g a lowpase or smoothing filter that replact
+with the deighborhood mean. It redyces th:
+
+the image edges. The median filtey cclculate
+pixel neighborhood for each ptxel/ thereby re
+effget; Finally,, the opening clo#ing filter
+Filter thet combines the same numberof erooi
+
+operations in order to eliminate amall object
+ain @ neural networ
+
+ 
+
+The wain goal was to tr
+to obtain a cloan 2mage from a noisy one.
+it was mech easier to obtain a simulated nod:
+ine than to clean a cubset of noisy images.
+images follows this scheme:
+
+Ir
+
+ 
+
+eimulated noisy"
+67,noisy_data/102.png,
+68,noisy_data/162.png,"al filters for rectuci
+he mean filter, the
+
+   
+ 
+
+Bical op
+Tho main yo,"
+69,noisy_data/161.png,"Sesign forms with &
+
+bounding huxe
+ecify where t¢
+lapping with ott
+A separate sheet of
+
+  
+
+These methods 5
+the effoct of skow and over!
+
+ides can be located on
+below the form or thoy ean be
+Buldes on a separate sheet, is much
+guality of the scanned image,
+fee lBPorlantly, restricts ing
+is used. “Guiding rulers printed
+
+this reason. Tight rectangles can be
+dork lines whey
+
+  
+ 
+ 
+
+  
+
+ 
+
+Res INUSL be tal
+tangles is in a
+is more exper"
+70,noisy_data/182.png,"There exist several methods to design forms with fic
+instance, fields may be Surrounded by bounding boxes, b.
+guiding rulers. These methods specify where to write ar
+the effect of skew and overlapping with other parts of t
+can be located on a separate sheet of paper that is loc:
+they can be printed directly on the form. The use of guic
+is much bettet from the point of view of the quality of t
+requires giving more instructions and, more importantly, 1
+where this type of acquisition is used. Guiding rulers p
+more commonly used for this reason. - Light rectangles
+easily with filters than dark lines whenever the handw
+rulers. Nevertheless, other practical issues must be tal
+best way to print these light rectangles is in a different
+
+however, this approach is more expensive’ than printin,
+black-and-white laser printers. A more economical anc"
+71,noisy_data/18.png,
+72,noisy_data/81.png,"There ore several el
+climinating high freque
+Jilter, the median filter and the closing ¢
+Srequently used. The monn filter is @ lowp
+filter that replaces the Pivel values rw)
+yun. It reduces the image noice but blurs
+The medan filter calculates the median 0
+borkood for each pinel, thereby reducing if
+Finally, the 9 filter is a m,
+ines the same
+peal operations in ¢
+
+a8 spatial filters
+TCy noise from in
+
+ 
+
+ 
+
+ 
+
+and dilation morphotog"
+73,noisy_data/215.png,"fhere oxict -sevoral methods to design torn
+filled in. For dnetence,.tieldo may be sure:
+by Light rectangles or by guiding rulere. Tr
+where to write and, therefore, minimise che ‘
+with “other parte of tha form, - These guides ¢
+poparate sheet of paper that is located belor
+be peinted directly oa the form, ‘Tho ume or
+shoot ia such better trom the point of view ¢
+Scanned image, but requires giving more Inet:
+beats e Ste use to tasks where this type of
+Guiding rulers printed on tue, form aro nero ¢
+qeason, Light rectanglaa can be removed more
+Ahan dark lines vheneyar the handuritzen text
+Nevertholess, othar practical iasuea wast he
+The best way to print these lignt roctansles"
+74,noisy_data/108.png,There are <everst classic spatial filters for
+75,noisy_data/176.png,"There exist several methods to design forms with fie
+instance, fields may be surrounded by bounding baxes, b
+Buiding rulers. These methods specify where to write ai
+the effect of skew and overlapping with other parts of t
+can be located on a separate sheet of paper that is loc:
+they can be printed directly on the form. The use of guh
+\is much better from the point of view of the quality of 1
+requires giving more instructions and, more importantly, .
+where this type of acquisition is used. Guiding rulers p
+more commonly used for this reason. Light rectangles
+easily with filters thon dark lines whenever the handwa
+rulers. Nevertheless, other practical issues must be tal
+best way to print these light rectangles is in a different «
+
+however, this approach is more expensive than printin,
+black-and-white laser printers
+
+A more economical anc"
+76,noisy_data/30.png,"There are several sic spatial filters for reducing oF elimin
+from images The mean jfilte! fian filter and the closing ©
+used. The filter 5 2 or meetin filter that replact
+neighboro ma. IC reduces the Image ise but Blu yrs the mak
+relates ¢ e ined of iyef neighborho for each pirel. Y
+effect. Finally, the opening closing filter js a mathe jatical morphe
+the same number of & vn and dilation morpholog"" ical operations
+yecwork in 9 supervised
+
+objects from I a
+
+Tine main go) 15 to train ® neural necwo
+
+image from a noisy on ""eh tis parila 2° it was much easier
+image from 4 aden cone th 2 subst 1 of noisy ‘images
+
+yan to clean"
+77,noisy_data/125.png,"There ewist several methods to ¢
+fields to be filled in. For insta
+be surrounded by bounding bores, b
+or by guiding rulers. These methe
+to write and, therefore, minimize
+and overlapping with other parts o
+guides can be located on a separat
+that is located below the form or
+directly on the form. The use of
+sheet is much better from the potr
+quality of the scanned image, but"
+78,noisy_data/186.png,"There are several classic spatial filters for reducing
+quency noise from images. The mean filter, ‘the medial
+opening filter are frequently used. ‘The mean filter is 3
+filter that replaces the pixel values with the neighborhoo
+image noise but blurs the image edges. The median filte
+of the pixel neighborhood for each pixel, thereby reduc
+Finally, the opening closing filter is @ mathematical m
+combines the same number of erosion and dilation morr
+ordér to eliminate small objects from images.
+
+The main goal was to train a neural network in a supel
+‘a clean image from @ noisy one. In this particular case,
+obtain a simulated noisy image from a clean one that
+noisy images. The process for obtaining simulated no
+scheme: This process requires images of the backgrour
+the acquisition forms, which were obtained by printing i"
+79,noisy_data/159.png,"re s
+
+ 
+
+There “eral classic spatial filters for roducty
+Gequency noise from images, The mean filter, the
+Closing opening filter are frequently used. ‘The menn
+Tothing filter that replaces the ptecd values with thy
+It reduces the image noise but blurs the ttinee edges,
+Culates the median af the pixel neighborhood for each
+ing the btinring effet, p ly. thewpentng closing fil
+morpholoxical filter that combines the same dumber ¢
+
+1s in ovdor to elitsinyrte sinall 5
+‘as 10 train a neural detwork in a
+wu! image from a noisy one: Tn thie Partie
+
+i ‘ated noisy image from a clea
+The process for obtaining si
+® Process requices Imayes of
+Peauisition forms. which were obts"
+80,noisy_data/107.png,
+81,noisy_data/150.png,"‘There ave several clossic spatial filters for reduett
+The meon filter, the
+
+frequency nosxe from invage
+closing opening filter are frequently used. The mean
+snoothing filter that replaces the picel velues with th
+
+ih reduces the image noise but blurs the image adge
+neighborhood for eae
+
+colculates the median of the perel
+ing the blurring effect. Finally, the opening closing {i
+morpholapical fiter tat combines tke same number 4
+morphological operations en order to eliminate small
+ke main goo! was to train a neural network io
+obtain a clean image from a noisy one. Jn this partict
+caster to obtain a sirnaulated noisy image from « clea
+The process for obtaining si
+
+subset of noisy images.
+Jollows this scheme: This process requires enayes of
+seetangles) of Uke acovisition forms, which were obtr"
+82,noisy_data/77.png,"There exist several methods to design
+to be filled in. For instance, fields may
+bounding bores, by light rectangles or by.
+These methods Specify where to write and
+mize the effect of skew and overlapping w
+the form. These guides can be located on a
+maper that +s located below the form ox th
+directly on the form. The use of guides or
+8 much better from the point of view of
+scanned image, but requires giving more
+nore importantly, restricts ile use to tasks"
+83,noisy_data/80.png,"There ex
+10 be filled"
+84,noisy_data/171.png,
+85,noisy_data/195.png,"or smoothing Fiter thar replace
+
+Tt redsces the
+Filter cetourats
+effect; Finally
+
+[fthter that comvines the same numberof ones;
+
+Oe climinate.simatt cdzees"
+86,noisy_data/23.png,
+87,noisy_data/99.png,"There are several classic spatial filters foi
+inating high frequency noise from images. ...
+the median filter and the closing opening fi ,
+
+~ used. The mean filter is a lowpass or smc .
+replaces the pixel values with the neighbor.
+duces the image noise but blurs the imagee
+
+y filter calculates the median of thé-pixel neigh
+
+' pixel, thereby reducing the blurring effect. F.
+closing filter is a mathematical morphologic =
+bines the same number of erosion and dilat
+
+~ operations in order to eliminate small objec” °"
+88,noisy_data/92.png,"There exist several methods to design
+to be filled in. For instance, fields may
+bounding boxes, by light rectangles or
+These methods specify where to write and
+mize the effect of skew and overlapping w
+the form. These suides can be located on a
+Paper that is located below the form or thy
+directly on the form. The use of guides on
+is much better from the point of view of t
+scanned image. but Tequires yi:
+iore importantly, restrict
+
+ 
+
+ 
+
+ing more
+its use to tasle"
+89,noisy_data/177.png,
+90,noisy_data/11.png,"There exist several methods to design forms with fields to
+felis mney be surrounded by bounding bozes, by light rectangles 0
+methods specify where lo urate end, therefore, minimize Ue eff
+with other paris ofthe Jorm. These guides can be loeated om a's
+fs loonled below the forni-or they can be printed directly om the ji
+«separate sheet is much better from the poént of view of the que
+dul requires giving more instructions end, more iniportantly, rest
+tas ype of acquisition is used Cuiding rulers printed on the
+used Jor this eoson. Light rectangles can be removed more easily
+whenever the handwritten text ouches the rulers. Nevertheless, .
+be faken into account; The best way to print these light rectan,"
+91,noisy_data/63.png,"There are several classic spatial filters for reduc
+frequency noise fron inagea. The cean filter, the ned
+Cpening filter ere frequently used. The mean filtor i:
+filter that roplaces the pixel values with the neighbo:
+the image noice but blurs the image edges, The median
+of the pixel: neighborhood for each Pixel, ‘thereby redu
+Finally, the Opening clocing filter ig a authenatical 1
+cosbines the saze nugber of erosion and ilation corply
+Yo eLininate soall objacts fran icages,
+
+The main goal vas'to train a neural nétvorh ina oy
+
+8 clean image froma noisy one. In thio particular ca,"
+92,noisy_data/119.png,"thods to design fo
+rr
+
+acify where to write and, therefore.
+overlapping with other parts of
+located on 4 separate sheet
+
+he form or they can. be print""
+f guides on a separate she
+f view of the quality of th
+gf more instructions and, /
+tasks where this type of a
+
+ 
+
+guides can be
+located below tl
+form. The use 0!
+from the point o'
+=: but requires giviny
+restricts its use to
+
++
+
+ 
+ 
+
+a"
+93,noisy_data/200.png,
+94,noisy_data/48.png,"There are several classic spatial filters for
+“om images. The mean fi
+
+ilter, the ‘median fi
+isa! The mean fers 2 lopas or sont
+Neighboriood mesa It red
+
+reducing or elimin
+Iter and the dosing o
+hing filter thatregtacc
+uces the image noise but blurs the imag
+calculates the median of th hood for each poel, th.
+elect. Finally, the opening lok
+the same number of erosion and dllton morphological operations
+Objects from images,» :
+
+The main goal was
+image from a noisy one.
+image from a dean one"
+95,noisy_data/47.png,"There evist several methods to design forms with fields to
+“eds may be surounded by bounding baves, by light rectangles (
+‘netiods specify where to write and, therefore, minimize the eff
+ich other parts a.the form. These guides can be located on a
+'slocitad below the formar they canbe printed diectly on the fa
+Separate sheet is much better fom the point-of yew of the quality
+Fequires giving more instructions and, more importantly, restricts
+‘ype of acquisition is used, Guiding rulers printed on the form are r
+reason, Light rectangles can be removed more easily with filters th
+handwritten text touches the rulers Nevertheless, other practical
+account: The best way to print these light rectangles is in a differt"
+96,noisy_data/164.png,"‘Vhere exist several methods to design forms with f«
+instance, fields may be surrounded by bounding, boxe
+or by guiding rulers. ‘These methods specify where te
+minimize the eflect of skew and overlapping with oll
+“These guides can be located) on a separate sheet of
+below the. form or they can be printed directly on t
+iyuides on a separate shect is mnch better from the
+quality of the scanned Image, but requires giving 1
+move importantly, restric
+
+is used.
+
+ 
+
+45 its use to tasks where tb
+Guiding rulers printed on the form aro mot
+this resson. Light rectangles ¢
+
+ 
+
+1 be removed more €
+dark fines whenever the -Landwriuien text touches the
+
+other practical issues must be taken into necount: 1
+these light rectangles is in a different color Ge. Th
+this approach is more expensive than printing gray 1"
+97,noisy_data/5.png,"sto design forms wilh fics 10
+
+sels may be surrounded fy bounding bes Oy Fight rectangles ©
+snethods spcity were 10 write ‘and, Duerefore, minamse dhe affe
+trth olher ports of Ue Jor ‘hese gies can be lented on @
+
+is located below the form oF they ear be prin dec 0 the fi
+«separate sheet is much fetter from the point of vet? of the que
+bul requires gertg mare insiruclons and, more importantly, rest
+this type of ocyuixlion is used, Guidding rulers printed on the
+used for this reason. ight rectangles con be removed Tore easily
+whenever the hondurilten text ouches the relers Nevertheless, »
+
+ight rectan,
+
+he taken into oconval: The est WH lo
+
+‘There exist several metho
+
+print these"
+98,noisy_data/84.png,"8 the sume m
+PErationg ine"
+99,noisy_data/180.png,"There are several classic spatial filters for reducing ¢
+quency noise from images. The mean filter, the media.”
+‘opening filter arc frequently used. The mean filter is
+filter that replaces the pixel values with the nejghborhoo
+image noise but blurs the-image edges. The median filte
+of the pixel neighborhood for each piel, thereby reduc
+Finally, the opening closing filter is a mathematical m
+combines the same number of erosion and dilation mort
+order to eliminate small objects from images...
+
+The main goal was (0 train J neural network in 2 supe:
+2 clean image from a noisy one. In this particular case,
+‘obtain 4 simulated noisy image from a clean_one that
+noisy images. The process for obtaining simulated 10
+scheme: This process requires images of the backgrout
+the acquisition forms, which were obtained by printing »;"
+100,noisy_data/53.png,"ds to design forms with fi
+
+nded by bounding be,
+fy where to urite
+4 overlapping wath other parts of
+can be located on a separate sheet of paper that 18 Lo
+they con be printed directly on the form The use of
+da auch better from the point of view of the quabily 2
+nore instructions and) more important!
+eof acquisition is wed. owiding
+ed for this reoaon, Light rectong
+than dark ines whenever Hie hondo
+
+There exist several metho
+
+fields may be surreu
+
+instance,
+These methods spect
+
+guiding rulers
+‘the effect of skev an
+
+requires giving
+tasks where thts typ
+are more commonly 15
+easily vith filters"
+101,noisy_data/170.png,"There exist several methods to design forms with fie
+instance, fields may be surrounded by bounding boxes, £
+guiding rulers. These methods specify where to write 21
+the effect of skew and overlapping with other parts of t
+can be located on a separate sheet of paper that is loc
+they can be printed directly on the form. The use of guii
+is much better from the point of view of the quality of t
+requies giving more instructions and, more importantly,
+where this type of acquisition is used. Guiding rulers p
+more commonly used for this reason. . Light rectangles
+easily with filters than dark lines whenever the handw1
+rulers. Nevertheless, other practical issues must be tai
+best way to print these light rectangles is in a different ¢
+however, this approach is more expensive that printin,
+black-and-white laser printers, A more economical anc"
+102,noisy_data/132.png,"There are sever,
+
+eliminating
+The mean
+
+OL classic spaty;
+or
+
+high frequency pois
+‘Stlter, the median filter
+opening filter-ore Frequently useg
+“isa lowpass o
+
+ates the median of th
+for each pimet, thereby reducing +
+
+Finally, the pening closing filte
+, POTPhOLogical Filter that combines"
+103,noisy_data/209.png,"There exist several methods to design forn
+filled in. For inovence, fields may be surr<
+by Light rectangles or by guiding rulere. Tr
+where to write and, therefore, minimize the «
+with other parte of the form. These guides <
+separate aheet of paper that io located belov
+be printed directly on the form. The use of
+sheet is much better from the point of view ¢
+ecanned image, but requires giving more inatz
+restricts its use te taske where this type of
+Guiding rulere printed on the form are more «
+reascn. Light rectangles can be removed more
+than dark lines whenever the handwritten text
+Nevertheless, other practical ieeues must be
+The beat vay to print these light rectanglea"
+104,noisy_data/204.png,"mere are saveral classic apattal filters
+
+nigh frequency noses from moder The mean }
+rg the closing opening frien ore freqientlt
+ce toupass or emvothing Setter that replace
+tin the nesghborhood-meany Tt reduces the '
+vee twage edges. The maacan f$10er colculatt
+piael neighborhood for each pisel, theredy 7
+Byfect. Finally, the opanéng closing filter
+falter that combines the same numberof eros
+nae order to eaminate small 00]5°)
+
+o train a neural netuor
+
+rh
+
+operatic
+The motn gool was t
+to obsoin a clean image from © MOved one.
+Ty uas mich easter to, obtain & simulated not!
+ose than to clean ‘g-oubaet of notsy tmages-
+ore hated nosoy images fortous this scheme:"
+105,noisy_data/35.png,"sre exist several ‘methods #2 design forms with fields to
+
+ficlds may be sure unded by nding bores, bY fight recon
+to write 30d. therefore, miniize the
+
+fides can BE located on 2%
+
+methods speoly
+
+t the form. These ef
+js located below the form oF can be pri inted directly 0” the fo.
+sheet 5 much better fom from the paint of view of the quality
+d, more ia restricts
+form are”
+
+used. Guide wrt
+sly with filters tt
+
+Ther
+
+ 
+
+gis can be remov
+15. ails athe
+is ina diflen
+
+handwritten text rouches the rl
+pest way (0 rin ese Hi etn?"
+106,noisy_data/135.png,"There are several classic spatia
+or eliminating high frequency nois
+mean filter, the median filter and
+filter are frequently used+, The me
+lowpass or smoothing filter that re
+with the neighborhood mean.
+
+blurs the image edg
+es the median of the
+thereby reducing tl
+g filter
+mbines
+
+values
+“image noise but
+filter calculat
+for each pixel,
+Finally, the opening closin
+morphological filter that co"
+107,noisy_data/93.png,"There are several classic sp:
+
+ 
+
+ial filters
+eliminating high frequency noise from it
+
+filter, the median filter and the closing ¢
+frequently used. The mean filter is a lowp
+filter that replaces the pixel values with t
+mean. It reduces the image noise but blurs
+The median filter calculates the median o
+borhood for each pixel, thereby reducing tl
+Finally, the opening closing filter is a mi:
+phological filter that combines the same 1
+and dilation morphological operations in ¢"
+108,noisy_data/110.png,"There exist several methods to design fo:
+be filled in For instance, fields may be surre
+ing boxes, by light rectangles or by guiding rv
+
+ods specify where to write and, thereforé, 1
+of skew and overlapping with other parts ol
+
+~ guides can ibe located on a separate sheet
+located below the form or they can be print
+form. The use of guides on 2 separate she
+from the point of view of the quality of th
+but requires giving more instructions and, |
+restricts its use to tasks where this'tyPe ofa
+
+- ."
+109,noisy_data/68.png,
+110,noisy_data/141.png,"There are several classic spatia
+or eliminating high frequency noise
+mean filter, the median filter and
+filter are frequently used. The me
+lowpass or smoothing filter that re
+values with the neighborhood mean.
+image noise but blurs the image ed£
+filter calculates the median of the
+for each pixel, thereby reducing tt
+Finally, the opening closin& filter
+morphological filter that combines"
+111,noisy_data/62.png,"gn foras vith 13
+ding bores, |
+re to write
+
+ther parts of
+
+eral ceftods 1° desi
+ins taace, fields aay be ‘surrounded by boul
+These aethods specify
+
+guiding rulers:
+os and over opping VitD
+rate aboot of paper The) © lo
+yy on the Lore ‘the vse of |
+quality 0
+
+There exist 90v'
+
+  
+
+are
+
+easily vith filters"
+112,noisy_data/12.png,"‘Phere ave several classic splia fers for reductag or elimin
+foom images. The mean filer, te median filler and the closing ©
+vied, ‘The mean filter is @ loupass oF smoothing filter Ural rep
+the neighborbord-wran, Tt reves the image noise bul blurs the
+‘fiber eatealates the miedan of the pixel neighborhood for each }
+Blurring effect” Finally, Ureopendg closing {flier is.0 mathers
+thal combines the some nanuber of eresion ‘and dilation morpho
+to eliminate amoll objects from images.
+
+‘The mein goal was to trsan a neural nelwork in a supervisce
+image froma o noisy one, In Uis particular cose, il was rach et
+naisy image from « clean one Uhan Lo clean. a subset of noisy"
+113,noisy_data/65.png,"There exist sovera “ettods to design tors vith fi
+instance, fields Say be surrounded by
+
+Guiding rulers, 860 nethods
+the effect of i"
+114,noisy_data/32.png,"ere exist sevel methods 1 jesign forms with field to
+fjelds may rounded YY poundi ty light rectangles
+
+meth where £2 ute and minimize effo.
+with other parts of the form These be Jocated 0"" 2 st
+& Iocated below the form or they ate ly on the fo
+separate sheet much better fro! point af the quality
+requires ivi more instru is and, more tly, estricts
+type of isitlon Guiding > printed 07 the form are""
+reasoe- Light rec ngies ca"" be remo m ally with filters th
+pandwniten text touch the cules veyarthelesss ote i
+
+account he vest to print these rectangles jn offer"
+115,noisy_data/210.png,
+116,noisy_data/56.png,"There exist several methods to destgn forms with fu
+anstance, fields may be surrounded by hounding ‘bezes,
+guiding rulers, These wethods specify chere to write
+the effect of skev and overlapping vith other parts of
+can be located on a separate sheet of paper that is lo
+they can be printed directly on the form. The use of
+is mich detter from the point of view of the quality 0
+requires giving more instructions and, more teportantl
+tasks uhere this type of cequisition is used. Guiding
+are more commoniy used for thts reason. Light rectong
+
+easily with filtero than dark lines whenever the handw"
+117,noisy_data/183.png,of the
+118,noisy_data/174.png,Order to eliminate smai) objec
+119,noisy_data/113.png,"restricts its use to t
+
+- a *
+
+yeral methods to design fo
+fields may be surrt
+les or by guiding r
+d, therefore, 7
+her parts of
+
+There exist Se
+be filled in. For instance,
+ing boxes, by light rectangl
+‘ods specify where to write an
+
+. of skew and overlapping with ot!
+* guides can be located-on
+
+located below the form or
+form, The usé of guides on 4 separate she
+from the point of view of the quality of th
+but requires giving more instructions and,
+
+‘asks where this type ofa
+
+they can be print
+
+a separate sheet"
+120,noisy_data/116.png,"There exist several Methods to design fo
+be filled in. For instance, fields may be surn
+ing boxes, by light rectangles or by guiding ry
+ods Specify where to write and, therefore,
+
++
+restricts its use to tasks where this type of a"
+121,noisy_data/140.png,"There exist several methods to d
+fields to be filled in. For instar-
+be surrounded by bounding boxes, bj
+or by guiding rulers. These methoc
+to write and, therefore, minimize t
+‘and overlapping with other parts of
+- guides ‘can be located on a separate
+that is located below the form or t
+directly on the form. The use of ¢
+sheet is much better from the point
+quality of the, scanned image, but 1"
+122,noisy_data/126.png,"There are several classve spatic
+or eliminating high frequency nots
+The mean filter, the medtan filter
+opening filter are frequently used
+is a Loupass or smoothing filter t
+picel values with the neighborhood
+the image noise but blurs the imag
+falter calculates the -median of th’
+for each piel, theredy reducing t
+
+| Finally, the opening closing filte
+morphological felter that combines"
+123,noisy_data/117.png,"everal classic spatial filters for
+from images-
+
+cy noise
+
+the image &
+ixel neigh ="
+124,noisy_data/3.png,"filters jor reducing oF ekanin
+median filler and the cloning o
+
+lowpass or smootiing fier that rep
+the neighborhood mean. It reduces the ‘mage noise but blurs the
+
+filter calculates the median OF the pitel neighbascod for each i
+Vrring effect, Finally, the OMening closing filttirss a mathe
+
+‘I erosion and dilation ‘morpho
+jects from images, f
+
+‘us to.train @ neural ng
+Timage from a noisy one. fy
+
+| Malsy mage from a clean
+
+in filler is @
+
+twit LN bupervisen
+I cst. wis much eq
+than to clean a ‘sulnist Of noisy
+
+t Ukis particulay
+one"
+125,noisy_data/87.png,"The thedian
+‘ bothood for
+
+ 
+
+the i SINE filter isa
+Phological filter that Combines the Si
+and dilation
+
+same p
+logical Opers
+
+Morphy ations in ¢"
+126,noisy_data/51.png,"There are several classic spatial filters for reduc
+frequency noise from rnages. The mean filter, the med
+opening falter are frequently used, The ween filter +
+filter that replaces the pizel values with the neighbo
+the inage noise but blurs the image edges, The median
+of the picel neighborhood for each pizel, thereby redu
+Finally, the opening closing filter t9 a aethenatical .
+conbines the sane number of erosioncand dilation morph
+to eliminate small objects fron tnages.\\ *
+
+The wain goal uas fo trcin a neural network: in a 31
+‘4 clecr iaage from a noicy one. In this perfrcular ca"
+127,noisy_data/2.png,"There exit several meliog
+Jields may be surroundéd byh
+methods specify where to wr
+
+ 
+
+'o design forms with fields to
+uniing bozes, by bight rectangles
+
+rte and, therefore, mamnimize the effe
+wilh other parts of te form. Thése guides ean be located on wn
+
+is located blow the forat or they cam be printed directly on the j
+© separate sheet ts much better from the point of view of the que
+bul requires giving more instructions
+
+and, more émportandly, rst
+this ype of eogisihon is used, Ciding rulers printed on the
+
+used for this reason, Light rectangles can be removed more easily
+\shenevcr the huntiilten tert touches the rulers. Neverthe less,
+be token ints account: The bt way to print these ght rectan,"
+128,noisy_data/191.png,"There exist several methods tO design forms with fie
+may be currounded By bounding baxes, b
+
+These methods specify where to virite at
+the effect of ‘skew and overlapping with other parts of t
+can be located on 2 separate sheet of paper that is loci
+they can be printed directly on the form. The use of suit
+f the quality‘of t
+
+re much better from the point of view ©
+requires giving more instructions ‘and, more importantly, |
+
+uhere this type of acquisition IF used. Guiding rulers P
+wore commonly used for this e250!
+venever the handwt
+
+casily with filters than dark lines whi
+rulers. Nevertheless, other practical issues must be tal
+
+best way to print these light rectangles is in a different ¢
+
+instance, fields
+guiding rulers._
+
+however, this approach Is more expensive than peiatin,
+jnters, A more economical 2n¢
+
+black-and-white laser Pr"
+129,noisy_data/90.png,"sic spatial filters
+
+noise frov1 1»
+c
+
+‘There are several clas
+eliminating igh frequency
+
+filter, the median Alter and the closing
+frequently sed. The meae fiver is a lO*P
+iter that replaces the pixel values with t
+mean. It reduces the mage noise but blurs
+The mediaD filter calculates the median ©
+porbood for cach pixel. thereby reducing, tl
+Finally the opening closin| filter is 2
+filter that combi » game 1
+logical oper j
+
+ 
+
+phological
+and dilation morpho"
+130,noisy_data/158.png,"‘There exist several meghods to design forms with fi
+instance, fields xgey be surrounded by bounding bast
+or by guiding rulers. ‘Lhese. methods specify where tc
+minimize tbe effect of skew and overlapping with ot
+These guides can be located ou a separate sheet of
+or Whey can be printed directly on
+
+ 
+
+ 
+
+below the for:
+guides.on -scparate sheet is much better from the
+
+quality, of ibe sdanned image, but requires giving 7
+more impdriatitly, restriets ils use to tasks where Ub
+is used. Guiding rulers printed on the form are mor
+‘this reason. Light rectangles can be removed more e
+dark lines whenever the bsndwritrea-text touches the
+other practical issues must be-taken into account: T
+these light rectangles is ina different color (Le. li
+this approach is more expensive than printing gray’ 1"
+131,noisy_data/15.png,"od foreach p
+
+‘0 eliminate: su
+‘The auain"
+132,noisy_data/66.png,
+133,noisy_data/89.png,"ethods to desigt
+fields may |
+Jes or P
+
+eral
+jnstance,
+, light rectang}
+where to write and
+verlapping w
+Jocated on 2
+nor the
+
+“Phere exist sev!
+jled in. For
+
+   
+  
+
+scanned image,
+more importa"
+134,noisy_data/114.png,"There are several classic spatial filters for
+inating high frequency noise from images. —
+the median filter and the closing opening fii,
+used. The mean filter is a lowpass or smc |
+replaces the pixel values with the neighbort
+duces the image noise but blurs the image &
+filter calculates the median of the pixel neigh.
+pixel, thereby reducing the blurring effect Fi
+
+closing filter is a mathematical morphologic ..
+___ bines the same number of erosion and dilat .-
+~ operations in order to eliminate small objec: ."
+135,noisy_data/131.png,
+136,noisy_data/216.png,"There are sever:
+
+al clagsic Spatial filters
+high froquescy neice fram 4
+
+and the cloging opening £i:
+te a lowpass“or Smoothing
+with tho nei ghborhoed me:
+the image cdgea.
+
+ 
+
+8. The moan {
+Lter are frequently
+filter that replace
+jan: It reducea the i
+The median filter calculate
+for each pixel, thereby re
+the opening closing tilver
+#6 the same rimber_of eron{
+
+effect. Finally,
+filter that combin
+
+mabaet of n:
+
+oisy imagen.
+ed noisy images follows
+
+this ocheme:
+
+aimulat"
+137,noisy_data/78.png,"There are $
+eliminating high
+filter, the median fi
+
+phologict!
+and dilation"
+138,noisy_data/27.png,"the same numberof ersion anf dia
+objects foarimages,
+
+The main goal wes to:traj
+image from a 0's one. In this Particular cai
+xitvee fom 2 cen one than to clan »
+
+ 
+
+5, it as tisch easior
+Ibset of AO'Sy images"
+139,noisy_data/156.png,
+140,noisy_data/155.png,"There exist sevéral methaus to design forms with
+For instance, Rlelds may be surcounded by bounding bo:
+or by guiding rulers. These methods specify where te
+minimise the efeel-of skew and overlappény with ot!
+These-guider ean be located on aaeparate shect of pay
+the form or they can be printed-direetly on the Jorm.
+& sebarute sheet is much better froin the point of vier
+scanned image, bul requires giving more instructions a
+restricts ity use to tasks where this type.
+
+ral
+
+of acquisin
+ars Prited on the form are more commonly weed .
+TMelangles can be removed more easily wilh fillers tha
+the handwritten lest touches the rulers. Nevertheless,
+‘nual be taken into account: The beet way 10 print
+18 tn a different color (i.e. light yellow); however,
+Canensive than printing qrau rectangles with black-an,"
+141,noisy_data/201.png,
+142,noisy_data/165.png,
+143,noisy_data/45.png,"Se Spatial fers for
+mean filter, the m
+The mean
+
+NING or elimin
+ray 8 the dosing
+Ulter is 5 OMDass 0) Smocthing filter t that
+Neighborhood MEIN. Tt reduc the image Doise but.
+Calculates the median of the pixel Neig
+Alect, Final
+
+hematical morpho
+dilation Morthoogical operations
+‘main goal Was
+
+Hein a SUpervised
+ack * S MUch easier
+lean one than f noisy images,"
