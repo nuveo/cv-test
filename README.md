@@ -6,10 +6,10 @@ This repository has several tests that comply with the Computer Vision, Natural 
 
 The following tests are given:
 
-1. (:muscle:) Document Cleanup (Computer Vision)
-2. (:punch:) Fraud Detection (Machine Learning)
-3. (:muscle:) SMS Spam Detection (Natural Language Processing)
-4. (:ok_hand:) Cooking Recipe Detection (Machine Learning)
+1. (:muscle:) **Document Cleanup** (Computer Vision)
+2. (:punch:) **Fraud Detection** (Machine Learning)
+3. (:muscle:) **SMS Spam Detection** (Natural Language Processing)
+4. (:ok_hand:) **Cooking Recipe Detection** (Machine Learning)
 
 Where the level of difficulty can be roughly defined such as:
 
