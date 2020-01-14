@@ -1,4 +1,4 @@
-# Artificial Inteligence test
+# Artificial Intelligence test
 
 This repository has several tests that comply with the Computer Vision, Natural Language Processing and Machine Learning expertise. Each test has its own set of files, parameters, instructions and strategies to be solved. Therefore, choose them wisely.
 
