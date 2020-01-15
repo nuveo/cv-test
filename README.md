@@ -1,4 +1,4 @@
-# Artificial Inteligence test
+# Artificial Intelligence test
 
 This repository has several tests that comply with the Computer Vision, Natural Language Processing and Machine Learning expertise. Each test has its own set of files, parameters, instructions and strategies to be solved. Therefore, choose them wisely.
 
@@ -6,11 +6,11 @@ This repository has several tests that comply with the Computer Vision, Natural 
 
 The following tests are given:
 
-1. (:muscle:) Document Cleanup (Computer Vision)
-2. (:punch:) Fraud Detection (Machine Learning)
-3. (:muscle:) SMS Spam Detection (Natural Language Processing)
-4. (:ok_hand:) Cooking Recipe Detection (Machine Learning)
-5. (:muscle:) Text Authorship Identification (Natural Language Processing)
+1. (:muscle:) **Document Cleanup** (Computer Vision)
+2. (:punch:) **Fraud Detection** (Machine Learning)
+3. (:muscle:) **SMS Spam Detection** (Natural Language Processing)
+4. (:ok_hand:) **Cooking Recipe Detection** (Machine Learning)
+5. (:muscle:) **Text Authorship Identification** (Natural Language Processing)
 
 Where the level of difficulty can be roughly defined such as:
 
