@@ -1,3 +1,9 @@
+### Link to download weights
+
+```
+https://drive.google.com/drive/folders/15q-_yL2j0wxEla2FiBoVrh23kd18OiUM
+```
+
 # Description
 
 The collection contains offline signature samples. The images were scanned at 600dpi resolution and cropped with a controlled image region where the signature verification is done.
