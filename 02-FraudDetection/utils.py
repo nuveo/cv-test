@@ -3,6 +3,14 @@ import seaborn as sns
 import pandas as pd
 import os
 
+from tensorflow.keras.models import load_model
+from keras.applications.imagenet_utils import preprocess_input
+
+
+from tensorflow.keras.preprocessing.image import load_img, img_to_array
+import numpy as np
+
+
 from sklearn.manifold import TSNE
 from sklearn.decomposition import PCA
 
@@ -141,3 +149,41 @@ def PlotPCA(features, generator):
             bbox_to_anchor=(1, 0.5))
 
     plt.show()
+
+def test_prediction(directory, model):
+    imgs = []
+    preds = []
+    for img in os.listdir(directory):
+        x = load_img(directory + img,
+                    grayscale=False,
+                    color_mode='rgb',
+                    target_size=(299, 299),
+                    interpolation='nearest')
+        x = img_to_array(x)
+
+        x = preprocess_input(x)
+
+        x = x / 255.0
+
+        x = np.reshape(x,[1,299,299,3])
+
+        pred = model.predict_classes(x)
+
+        if pred == 0:
+            pred = 'Disguise'
+        elif pred == 1:
+            pred = 'Genuine'
+        else:
+            pred = 'Simulated'
+
+        imgs.append(img)
+        preds.append(pred)
+
+    data = {
+            "filename": imgs,
+            "prediction": preds
+    }
+
+
+
+    return pd.DataFrame(data, columns=["filename", "prediction"])
