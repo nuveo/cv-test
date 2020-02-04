@@ -1,24 +1,13 @@
 # Artificial Intelligence test
 
-This repository has several tests that comply with the Computer Vision, Natural Language Processing and Machine Learning expertise. Each test has its own set of files, parameters, instructions and strategies to be solved. Therefore, choose them wisely.
-
+This repository the solution for the Computer Vision test.
 # Tests
 
-The following tests are given:
+The following tests were given:
 
 1. (:muscle:) **Document Cleanup** (Computer Vision)
-2. (:punch:) **Fraud Detection** (Machine Learning)
-3. (:muscle:) **SMS Spam Detection** (Natural Language Processing)
-4. (:ok_hand:) **Cooking Recipe Detection** (Machine Learning)
-5. (:muscle:) **Text Authorship Identification** (Natural Language Processing)
 
-Where the level of difficulty can be roughly defined such as:
 
-- :ok_hand: : It is regular challenge that should be fine for most of AI enthusiasts.
-- :muscle: : Increase the level of complexity and requires more experience on the AI field
-- :punch: : It is a good challenge for AI specialists that are both curious and have great familiriaty with the field
-
-The instructions to each problem are described in separated README files in each folder.
 
 # Instructions
 
@@ -51,4 +40,4 @@ As an extra help, use the following checklist to verify if everything is ok:
 - [ ] Make commentaries or auxiliary documentation files (e.g. README files) to assist the interpretation of your solutions.
 - [ ] Save the resulting code, scripts, etc on separated folders with complies with the same name as the input dataset (just to help us :+1:)
 - [ ] Prepare the commits on the separated branch using the naming standard: `first + last name`.
-- [ ] Submit the PR! (fingers crossed :blush:)
+- [ ] Submit the PR!
