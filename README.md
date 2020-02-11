@@ -22,7 +22,7 @@ The instructions to each problem are described in separated README files in each
 
 # Instructions
 
-Please, develop a script or program using the programming language of your choice to solve at least **two** of these tests, where the candidate is free to choose any of them. We are aware of the difficulty associated with each problem, but all the creativeness, reasoning strategy and accuracy will be used to evaluate the candidate performance.
+Please, develop a script or program using the programming language of your choice to solve at least **two** of these tests, where the candidate is free to choose any of them. We are aware of the difficulty associated with each problem, but all the creativeness, reasoning strategy, details on code documentation and accuracy will be used to evaluate the candidate performance.
 
 We expect that a solution could be reasonably achieved within a reasonable time-period, considering a few days, so be free to use the time as best as possible. We understand that you may have a tight schedule, therefore do not hesitate to contact us for any further request :+1:.
 
@@ -37,7 +37,7 @@ All the datasets are located into a single compressed file in [this link](https:
 
 Fork this project and create a branch with your `first + last name` on it. For instance, a branch naming "Antonio Silva" will define that the candidate with the same name is uploading the code with the solution for the chosen tests. Please, give the scripts and code in separate folders (with the same name as the provided file folders) to facilitate our analysis. 
 
-Also, we expect that the candidate can explain the procedure and strategy adopted by using a lot of commentaries or even a separated README file. Be free to choose what is more suitable for you, but keep it simple and clear to understand. 
+Also, we expect that the candidate can explain the procedure and strategy adopted by using a lot of commentaries or even a separated README file. This description part is very important to facilitates our understanding of your solution! Remember that the first technical contact with the candidate is by these coding tests. Even though we reinforces the importance of the documentation and code explanation, we are very flexible to give the candidate the freedom to choose what will be the type of communication (e.g. README files, code commentaries, etc). 
 
 After all the analysis and coding being done, create a pull request (PR) in this repository.
 
@@ -46,9 +46,9 @@ After all the analysis and coding being done, create a pull request (PR) in this
 As an extra help, use the following checklist to verify if everything is ok:
 
 - [ ] Downloaded all the test files using the [link](https://drive.google.com/file/d/1LhH_5ULfyrobD60SZqIfoI56eV3HuDNI/view?usp=sharing).
-- [ ] Create a suitable solution using scripts, open-source libraries, own-code solutions, etc. Consider we follow your instructions to run your code and look the outcome.
+- [ ] Create a suitable solution using scripts, open-source libraries, own-code solutions, etc. **Consider we follow your instructions to run your code and look the outcome.**
 - [ ] Choose at least two tests to be solved. If the candidate is thrilled to solve them all it is ok too :smile:.
-- [ ] Make commentaries or auxiliary documentation files (e.g. README files) to assist the interpretation of your solutions.
-- [ ] Save the resulting code, scripts, etc on separated folders with complies with the same name as the input dataset (just to help us :+1:)
+- [ ] Make commentaries or auxiliary documentation files (e.g. README files) to assist the interpretation of your solutions. **Remember:** we love to read your comments and explanations! :heart_eyes:
+- [ ] Save the resulting code, scripts, documentatiion, etc on separated folders with complies with the same name as the input dataset (just to help us :+1:)
 - [ ] Prepare the commits on the separated branch using the naming standard: `first + last name`.
 - [ ] Submit the PR! (fingers crossed :blush:)
