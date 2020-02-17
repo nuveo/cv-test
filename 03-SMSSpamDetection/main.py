@@ -93,5 +93,7 @@ x_test = gensim.matutils.corpus2csc(corpus=x_test,num_terms=len(dicionario))
 x_test = x_test.transpose()
 y_test = clf.predict(x_test)
 
-print(y_test)
-print(["ham" if y == 0 else "spam" for y in y_test])
+df_test["y"] = ["spam" if x == 1 else "ham" for x in y_test]
+
+df_test.to_csv("res.csv")
+df_test[["y","text"]].to_csv("res.csv", index = False)
