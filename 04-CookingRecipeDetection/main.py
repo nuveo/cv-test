@@ -97,5 +97,9 @@ for index,i in df_test.iterrows():
 y_test = clf.predict(x_test)
 y_class = [cozinha[i] for i in y_test]
 
+
+df_test["y"] = y_class
+df_test[["y","id","ingredients"]].to_csv("res.csv", index = False)
+
 print(y_test)
 print(y_class)
