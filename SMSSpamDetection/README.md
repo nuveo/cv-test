@@ -36,5 +36,6 @@ The goal of the this test is to achieve a NLP model that can correctly manage th
 
 The SMS Ham-Spam test is described in `SMSSpamDetection.ipynb` file. All dataset modifications and ideas over the NLP tasks are described there. If you want to test this approach, you only need to:
 
-- Download the provided [dataset](https://drive.google.com/file/d/1LhH_5ULfyrobD60SZqIfoI56eV3HuDNI/view) from NUVEO. You can change the path for both train/test set inside the notebook.
+- Download the provided [dataset](https://drive.google.com/file/d/1LhH_5ULfyrobD60SZqIfoI56eV3HuDNI/view) from NUVEO. 
+- Change both train/test path inside the notebook.
 - install the libraries by doing `pip install -r requirements.txt` 

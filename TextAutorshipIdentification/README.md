@@ -32,3 +32,11 @@ In this test, you're challenged to predict the authorship of excerpts from horro
 - Replicate the data format for submission, i.e. the answer must be provided as a CSV file with the detect authorship in the last column and the rest as usual (i.e. text id and text information in the first and second columns respectively), similarly to what is provided in the `TrainingSet` file
 - The `TestSet` will be used for evaluation, therefore the candidate must fullfiled the last column with the predicted classes (`EAP`, `HPL` or `MWS`)
 - This test does not require a defined set of algorithms to be used. The candidate is free to choose any kind of data processing pipeline to reach the best answer.
+
+# How to Run
+
+The SMS Ham-Spam test is described in `SMSSpamDetection.ipynb` file. All dataset modifications and ideas over the NLP tasks are described there. If you want to test this approach, you only need to:
+
+- Download the provided [dataset](https://drive.google.com/file/d/1LhH_5ULfyrobD60SZqIfoI56eV3HuDNI/view) from NUVEO. 
+- Change both train/test path inside the notebook.
+- install the libraries by doing `pip install -r requirements.txt` 
