@@ -26,11 +26,11 @@ Inside the container, the scripts can be ran. Before:
 
 - python main.py -t 'train' -p 'data/sms-hamspam-train.csv'
 
-# Solução
+# Solution
 
-Para detectar spams dentre os sms's recebidos, foi usado um classificador Naive Bayes. É uma metodologia já bem utilizada na classificação de textos tomando como referência a probabilidade das palavras em cada categorias possível.  
+To detect spam among the received sms, a Naive Bayes classifier was used. It is a methodology already well used in the classification of texts taking as a reference the probability of words in each possible category.
 
-O primeiro passo para modelar esse tipo de problema é extrair as "features" dos sms's. Essas serão as palavras do idioma inglês. As features junto com os rótulos serão usadas no treinamento do modelo. Foram separados 80% dos dados para treinamento e 20% para dados de teste. Esses dados de testes permitiram selecionar o threshold de classificação para que o Recall seja de 100%.
+The first step in modeling this type of problem is to extract the "features" from the sms. These will be the words of the English language. The features along with the labels will be used in training the model. 80% of the data for training and 20% for test data were separated. These test data allowed to select the classification threshold so that Recall is 100%.
 
 
 
