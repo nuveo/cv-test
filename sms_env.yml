@@ -1,0 +1,14 @@
+name: sms_env
+channels:
+  - defaults
+dependencies:
+  - python==3.7.3
+  - pandas
+  - numpy
+  - tensorflow
+  - black
+  - nltk
+  - sklearn
+  - matplotlib
+  - wordcloud
+  - seaborn
