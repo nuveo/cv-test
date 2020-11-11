@@ -8,9 +8,8 @@ The following tests are given:
 
 1. (:muscle:) **Document Cleanup** (Computer Vision)
 2. (:punch:) **Fraud Detection** (Machine Learning)
-3. (:muscle:) **SMS Spam Detection** (Natural Language Processing)
-4. (:ok_hand:) **Cooking Recipe Detection** (Machine Learning)
-5. (:muscle:) **Text Authorship Identification** (Natural Language Processing)
+3. (:muscle:) **Where's Wally?** (Computer Vision)
+4. (:ok_hand:) **SMS Spam Detection** (Natural Language Processing)
 
 Where the level of difficulty can be (roughly) defined such as:
 
@@ -47,7 +46,7 @@ After all the analysis and coding being done, create a pull request (PR) in this
 
 As an extra help, use the following checklist to verify if everything is ok:
 
-- [ ] Downloaded all the test files using the [link](https://drive.google.com/file/d/1LhH_5ULfyrobD60SZqIfoI56eV3HuDNI/view?usp=sharing).
+- [ ] Downloaded all the test files using the [link](https://drive.google.com/file/d/1hAyIlI8NjvG8dkm8hmAe3URf2v9Tlfz-/view?usp=sharing).
 - [ ] Create a suitable solution using scripts, open-source libraries, own-code solutions, etc. **Consider we follow your instructions to run your code and look the outcome.**
 - [ ] Make sure that the output for the choosen tests are in accordance with the required output explained in the README.md file for each challenge.
 - [ ] **Choose at least two tests to be solved.** If the candidate is thrilled to solve them all it is ok too :smile:.
