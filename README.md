@@ -21,9 +21,9 @@ The instructions to each problem are described in separated README files in each
 
 # Instructions
 
-Please, develop a script or computer program using the programming language of your choice to solve at least **two** of these tests, where the candidate is free to choose any of them. We are aware of the difficulty associated with each problem, but all the creativeness, reasoning strategy, details on code documentation and accuracy will be used to evaluate the candidate performance.
+Please, develop a script or computer program using the programming language of your choice to solve at least **two** of these tests, where the candidate is free to choose any of them. We are aware of the difficulty associated with each problem, but all creativeness, reasoning strategy, details on code documentation, code structure and accuracy will be used to evaluate the candidate performance. So make sure the presented code reflects your knowledge as much as possible!
 
-We expect that a solution could be reasonably achieved within a reasonable time-period, considering a few days, so be free to use the time as best as possible. We understand that you may have a tight schedule, therefore do not hesitate to contact us for any further request :+1:.
+We expect that a solution could be achieved within a reasonable time-period, considering a few days, so be free to use the time as best as possible. We understand that you may have a tight schedule, therefore do not hesitate to contact us for any further request :+1:.
 
 ## Datasets
 
@@ -38,7 +38,7 @@ Fork this project and create a branch with your `first + last name` on it. For i
 
 Also, we expect that the candidate can explain the procedure and strategy adopted by using a lot of commentaries or even a separated README file. This description part is very important to facilitates our understanding of your solution! Remember that the first technical contact with the candidate is by these coding tests. Even though we reinforces the importance of the documentation and code explanation, we are very flexible to allow the freedom to choose what will be the type of communication (e.g. README files, code commentaries, etc). 
 
-Another good tip to follow is the general concept of software engineering that is also evaluated in this test. It is expected that the candidate has a solid knowledge of topics such as Test-Driven Development (TDD), i.e. clean code paradigms in general. In summary, it is a good idea to pay attention to both artificial inteligence and software engineers skills.
+Another good tip to follow is the general concept of software engineering that is also evaluated in this test. It is expected that the candidate has a solid knowledge of topics such as Test-Driven Development (TDD), and clean code paradigms in general. In summary, it is a good idea to pay attention to both artificial inteligence and software engineers skills.
 
 After all the analysis and coding being done, create a pull request (PR) in this repository.
 
