@@ -27,7 +27,7 @@ We expect that a solution could be reasonably achieved within a reasonable time-
 
 ## Datasets
 
-All the datasets are located into a single compressed file in [this link](https://drive.google.com/file/d/1LhH_5ULfyrobD60SZqIfoI56eV3HuDNI/view?usp=sharing). 
+All the datasets are located into a single compressed file in [this link](https://drive.google.com/file/d/1hAyIlI8NjvG8dkm8hmAe3URf2v9Tlfz-/view?usp=sharing). 
 
     Note that the file is quite big (~1 Gb), but we believe that a few minutes could deal with it
 
