@@ -273,8 +273,6 @@ class Classifier:
             )
 
         # Criterion
-        # criterion_train = nn.BCELoss()
-        # criterion_val = nn.BCELoss()
         criterion_train = nn.MSELoss()
         criterion_val = nn.MSELoss()
 
@@ -343,9 +341,6 @@ class Classifier:
             )
         model.eval()
 
-        y_pred = np.empty(0)
-        y_true = np.empty(0)
-
         with torch.no_grad():
             for i, (images, targets) in enumerate(test_loader):
                 for image, target in zip(images, targets):
@@ -359,28 +354,3 @@ class Classifier:
 
                     plt.imshow(output[0][0].cpu(), cmap='gray', vmin=0, vmax=1)
                     plt.show()
-
-        labels = ["Tree", "Replanted", "Missing"]
-
-        # Confusion matrix
-        cm = confusion_matrix(y_true, y_pred)
-        print(cm)
-
-        acc = accuracy_score(y_true, y_pred) * 100.0
-        fs = f1_score(y_true, y_pred, average="macro") * 100.0
-
-        print('ACC {:.2f} FS {:.2f}'.format(acc, fs))
-
-        return y_true, y_pred
-
-    def get_n_params(self):
-        model = torch.load(
-            f"{parent_path}/net_weights/{self.opt.filename}.pth"
-        )
-        pp = 0
-        for p in list(model.parameters()):
-            nn = 1
-            for s in list(p.size()):
-                nn = nn * s
-            pp += nn
-        return pp
