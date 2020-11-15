@@ -10,6 +10,8 @@ The goal of the this test is to achieve a model that can correctly manage the in
 
 ## Proposed solution
 
+The proposed solution consists of an Multinomial Naives Bayes classifier that classifies the input features as ham or spam. The feature vector was calculated using the Tf-Idf (Term frequency–Inverse document frequency) statistics which reflects the importance of the words in the document.
+
 ## Preparing environment
 
 Create conda env:
