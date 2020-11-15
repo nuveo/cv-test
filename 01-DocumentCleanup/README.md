@@ -3,7 +3,7 @@
 
 ![Proposed solution](assets/solution-flow.png)
 
-## Description
+## Problem description
 
 Many image processing applications make use of digitalized textual data. However, the presence of any type of noise can create difficulties in post-processing information, such as on OCR detection. To improve the information manipulation on such data, a previous image processing step is required.
 
@@ -12,6 +12,10 @@ In light of this idea, a set of text paragraphs containing plain English languag
 ## Objective
 
 The objective of this test is to evaluate the possible image processing methods that could fix the text samples. Note that the samples have a different type of background noise and present a set of text fonts. Therefore, the candidate should provide a flexible algorithm that can correctly detect what is text characters and background noise, offering a clean version of each text paragraph as result.
+
+## Proposed solution
+
+The proposed solution consists of using a common segmentation network with a 1-output channel. The network was trained with an artificial dataset that was built by combining background noise with plain text images. The network outputs are post-processed to obtain a more rectified and binarized image, producing the desired final results.
 
 ## Preparing environment
 
