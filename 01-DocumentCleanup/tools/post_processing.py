@@ -33,13 +33,13 @@ def get_corner_points(points, shape):
 
     # resize
     avg_point = np.mean(points, axis=0)
-    tmp_points = (corner_points - avg_point) * 1.1
+    tmp_points = (corner_points - avg_point) * 1.25
     corner_points = tmp_points + avg_point
         
     return corner_points
  
 
-def get_approx_polygon(image, alpha=0.02):
+def get_approx_polygon(image, alpha=0.009):
     """Calcualte the approximate polygon based on the object contour
     """
     contours, _ = cv2.findContours(image, cv2.RETR_TREE, cv2.CHAIN_APPROX_SIMPLE)
@@ -57,15 +57,20 @@ def rectify_image(image):
     bin_image = binarize_image(image, remove_noise=True)
 
     # Apply morphologycal operations to merge nearby letters
-    kernel_size = int(np.mean(bin_image.shape) * 0.1)
+    kernel_size = int(np.mean(bin_image.shape) * 0.07)
     kernel = np.ones((kernel_size, ) * 2 )
-    image_opened = 255 - cv2.erode(bin_image, kernel, iterations=1)
+    image_opened = cv2.morphologyEx(255 - bin_image, cv2.MORPH_CLOSE, kernel)
     
     # Get the approximated polygon (something similar to a quadrilateral)
     approx = get_approx_polygon(image_opened)
-
+    rect = cv2.minAreaRect(approx)
+    box = cv2.boxPoints(rect)
+    box = np.int0(box)
+    
     # Get corner points used to make affine transforms
-    src_tri = get_corner_points(np.squeeze(approx, axis=1), image.shape).astype(np.float32)
+    src_tri_1 = get_corner_points(box, image.shape).astype(np.float32)
+    src_tri_2 = get_corner_points(np.squeeze(approx, axis=1), image.shape).astype(np.float32)
+    src_tri = (src_tri_1 + src_tri_2) / 2
     dst_tri = np.array([
         [0., 0.],
         [image.shape[1], 0],
