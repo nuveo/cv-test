@@ -1,5 +1,8 @@
 # Document CleanUp
 -----
+
+![Proposed solution](assets/solution-flow.png)
+
 ## Description
 
 Many image processing applications make use of digitalized textual data. However, the presence of any type of noise can create difficulties in post-processing information, such as on OCR detection. To improve the information manipulation on such data, a previous image processing step is required.
@@ -44,7 +47,7 @@ optional arguments:
 If you would like to retrain the inference model, just execute the following command.
 
 ```bash
-$ python tools/train --filename <give_a_name_to_the_model>
+$ python tools/train.py --filename <give_a_name_to_the_model>
 ```
 The new model will be saved in the */net_weights* folder with the specified filename.
 
