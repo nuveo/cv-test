@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Artificial Intelligence test
 
 This repository has several tests that comply with the Computer Vision, Natural Language Processing and Machine Learning expertise. Each test has its own set of files, parameters, instructions and strategies to be solved. Therefore, choose them wisely.
@@ -54,3 +55,10 @@ As an extra help, use the following checklist to verify if everything is ok:
 - [ ] Save the resulting code, scripts, documentatiion, etc on separated folders with complies with the same name as the input dataset (just to help us :+1:)
 - [ ] Prepare the commits on the separated branch using the naming standard: `first + last name`.
 - [ ] Submit the PR! (fingers crossed :blush:)
+||||||| merged common ancestors
+=======
+# In each folder are found the solution to each respective problem and its README details
+
+
+Author: Suayder Costa
+>>>>>>> final result

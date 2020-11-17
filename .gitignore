@@ -1,0 +1,10 @@
+01-DocumentCleanup/noisy_data
+02-FraudDetection
+04-SMSSpamDetection
+03-WheresWally/AugmentedImage
+03-WheresWally/model_result
+03-WheresWally/ReferenceData
+03-WheresWally/test_result_best.csv
+03-WheresWally/TestSet
+03-WheresWally/test_result.csv
+03-WheresWally/TrainingSet
