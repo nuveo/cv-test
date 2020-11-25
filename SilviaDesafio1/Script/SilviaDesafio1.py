@@ -50,6 +50,7 @@ def preprocessamento(diretorio):
         #binarizando e salvando
         imagem = cv2.threshold(imagem, 140, 255, cv2.THRESH_BINARY)[1]
         #cv2.imshow('imagem' +str(i), imagem)
+        #Utilizei o PC no login Renato
         caminhosaida = "C:\\Users\\Renato\\Documents\\SilviaCosta\\SilviaDesafio1\\imagens_preprocessamento\\"  + str(i) + ".png"
         cv2.imwrite(caminhosaida, imagem)
     except:
@@ -127,6 +128,7 @@ def inserirTexto(imagem, lista, imagem_shape,i): #Funcao para inserir o texto e 
   
 
 for i in range (0,217):
+    #Utilizei o PC no login Renato
     diretorio = "C:\\Users\\Renato\\Documents\\SilviaCosta\\SilviaDesafio1\\imagens_originais\\"  + str(i) + ".png"
     preprocessamento(diretorio) #pre-processamento das imagens
     diretorio2 = "C:\\Users\\Renato\\Documents\\SilviaCosta\\SilviaDesafio1\\imagens_preprocessamento\\" + str(i) + ".png"
