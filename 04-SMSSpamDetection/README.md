@@ -2,9 +2,11 @@
 
 Hi there, this repository contains a solution for test 4.
 
-To run this test please: 
+To run this solution please: 
 
-1. Install the requirements.txt
+1. Install the requirements.txt in python enviroment or not
 2. Change the path_train variable to path to train dataset on your machine
 3. Change the path_test variable to path to test dataset on your machine 
 4. Open the Classify_Spam.ipynb file in jupyter notebook or vscode with python extension
+
+If you want just compare, the results is in Results/ClassifiedTestData.csv
