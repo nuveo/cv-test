@@ -1,2 +1,4 @@
 *.h5
 *.hdf5
+yolo_wally_all_data
+*.ipynb_checkpoints
