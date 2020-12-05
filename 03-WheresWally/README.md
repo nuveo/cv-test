@@ -9,4 +9,4 @@ To run this solution please:
 3. Change the img_train_path and test_path variables to path of train and test datasets respectively on your machine 
 4. Open the Classify_Wally.ipynb file in jupyter notebook or vscode with python extension
 
-If you want just compare, the results is in Results/Results_Wally_TestSet.csv
+If you want just compare, the results are in Results/Results_Wally_TestSet.csv
