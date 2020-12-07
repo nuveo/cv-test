@@ -9,13 +9,8 @@ This repository has several tests that comply with the Computer Vision, Natural 
 ## João Pedro Vasconcelos Teixeira
 
 
-```{figure} imgs/jp.png
----
-width: 200px
-align: left
----
+<img src="imgs/jp.png" width="200px"> </img>
 
-```
 
 
 <sub>*Computer Engineering undergrad student* at Universidade Federal da Paraíba</sub>
@@ -42,23 +37,21 @@ Outside of computer science, I enjoy learning random stuff, traveling, playing D
 
 The following tests were solved:
 
-1. (:muscle:) [Document Cleanup]() (Computer Vision)
-2. (:ok_hand:) [SMS Spam Detection]() (Natural Language Processing)
+1. (:muscle:) [Document Cleanup](https://github.com/jpvt/cv-test/tree/joaoteixeira/01-DocumentCleanup) (Computer Vision)
+2. (:ok_hand:) [SMS Spam Detection](https://github.com/jpvt/cv-test/tree/joaoteixeira/04-SMSSpamDetection) (Natural Language Processing)
 
 
 The resolutions were made available as Jupyter Notebook. There are two notebooks in each challenge directory:
 
-- [DocumentCleanup]() 
-- [DocumentCleanup-Local]()
+- [DocumentCleanup](https://github.com/jpvt/cv-test/blob/joaoteixeira/01-DocumentCleanup/DocumentCleanup.ipynb) 
+- [DocumentCleanup-Local](https://github.com/jpvt/cv-test/blob/joaoteixeira/01-DocumentCleanup/DocumentCleanup-Local.ipynb)
 
-- [SMSSpamDetection]()
-- [SMSSpamDetection-Local]() 
+- [SMSSpamDetection](https://github.com/jpvt/cv-test/blob/joaoteixeira/04-SMSSpamDetection/SMSSpamDetection.ipynb)
+- [SMSSpamDetection-Local](https://github.com/jpvt/cv-test/blob/joaoteixeira/04-SMSSpamDetection/SMSSpamDetection-Local.ipynb) 
 
-The files without "Local" in the name are adapted for GitHub jupyter notebook visualization, without the need to download the code to view it.
+The files without "Local" in the name were adapted for GitHub jupyter notebook visualization, without the need to download the code to view it.
 
 I recommend to everyone who wants a better experience viewing the answer to download the repository and run the "Local" notebooks.
-
-The 
 
 # Summary
 
