@@ -1,0 +1,9 @@
+/03-WheresWally/TrainingSet/*
+/03-WheresWally/TestSet/*
+/04-SMSSpamDetection/TrainingSet/*
+/04-SMSSpamDetection/TestSet/*
+
+.ipynb_checkpoints
+
+yolo_wally_all_data
+yolo_model
