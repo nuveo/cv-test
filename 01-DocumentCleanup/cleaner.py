@@ -11,6 +11,7 @@ def clean_document(document):
     """
     new_image = binarize_image(document)
     new_image = correct_skew(new_image)
+    new_image = remove_noise_based_on_histogram(new_image)
     return new_image
 
 
@@ -30,7 +31,7 @@ def correct_skew(binary_image):
     """
     best_image = None
     best_value = -1
-    binary_image = 255 - binary_image
+    binary_image = invert_binary_image(binary_image)
     for angle in range(-45, 45):  # The range is -45 to 45 to avoid finding an upside-down image
         rotated = inter.rotate(binary_image, angle, reshape=False, order=0)
         score = calculate_skew_score(rotated)
@@ -38,7 +39,7 @@ def correct_skew(binary_image):
             best_image = rotated
             best_value = score
 
-    best_image = 255 - best_image
+    best_image = invert_binary_image(best_image)
 
     return best_image
 
@@ -53,3 +54,18 @@ def calculate_skew_score(binary_image):
     hist = np.sum(binary_image, axis=1)
     score = np.sum((hist[1:] - hist[:-1]) ** 2)
     return score
+
+
+def remove_noise_based_on_histogram(binary_image):
+    binary_image = invert_binary_image(binary_image)
+    hist = np.sum(binary_image, axis=1)
+    for line, h in enumerate(hist):
+        if (h / 255) < (binary_image.shape[0]*.05):
+            binary_image[line, :] = 0
+    binary_image = invert_binary_image(binary_image)
+    return binary_image
+
+
+def invert_binary_image(binary_image):
+    binary_image = 255 - binary_image
+    return binary_image
