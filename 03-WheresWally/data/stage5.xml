@@ -1,0 +1,57 @@
+<?xml version="1.0"?>
+<opencv_storage>
+<stage5>
+  <maxWeakCount>10</maxWeakCount>
+  <stageThreshold>5.1989400386810303e-01</stageThreshold>
+  <weakClassifiers>
+    <_>
+      <internalNodes>
+        0 -1 13186 4.2133629904128611e-04</internalNodes>
+      <leafValues>
+        6.2343096733093262e-01 -8.0327868461608887e-01</leafValues></_>
+    <_>
+      <internalNodes>
+        0 -1 137520 -6.1279619112610817e-03</internalNodes>
+      <leafValues>
+        7.1731394529342651e-01 -5.6718438863754272e-01</leafValues></_>
+    <_>
+      <internalNodes>
+        0 -1 87618 -2.6128261815756559e-03</internalNodes>
+      <leafValues>
+        6.5944349765777588e-01 -5.9679234027862549e-01</leafValues></_>
+    <_>
+      <internalNodes>
+        0 -1 4205 6.0048466548323631e-03</internalNodes>
+      <leafValues>
+        -6.5686309337615967e-01 5.3724271059036255e-01</leafValues></_>
+    <_>
+      <internalNodes>
+        0 -1 49483 -1.0030952980741858e-03</internalNodes>
+      <leafValues>
+        -9.2425990104675293e-01 4.4409668445587158e-01</leafValues></_>
+    <_>
+      <internalNodes>
+        0 -1 7109 -4.2300391942262650e-03</internalNodes>
+      <leafValues>
+        7.1609193086624146e-01 -5.7825261354446411e-01</leafValues></_>
+    <_>
+      <internalNodes>
+        0 -1 164 -3.8908197893761098e-04</internalNodes>
+      <leafValues>
+        -8.8688898086547852e-01 5.3090280294418335e-01</leafValues></_>
+    <_>
+      <internalNodes>
+        0 -1 159687 5.3474301239475608e-04</internalNodes>
+      <leafValues>
+        3.3549019694328308e-01 -9.2757475376129150e-01</leafValues></_>
+    <_>
+      <internalNodes>
+        0 -1 118739 1.6576433554291725e-02</internalNodes>
+      <leafValues>
+        -5.0338959693908691e-01 8.0950486660003662e-01</leafValues></_>
+    <_>
+      <internalNodes>
+        0 -1 482 -3.2251609954982996e-03</internalNodes>
+      <leafValues>
+        -7.0355653762817383e-01 5.2991759777069092e-01</leafValues></_></weakClassifiers></stage5>
+</opencv_storage>
