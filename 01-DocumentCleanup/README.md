@@ -1,3 +1,7 @@
+# How to execute:
+
+Just type "bash  python/python3 DocumentCleanup.py" to see the algorithm running. A folder called treated_images will be created with all the images of the texts align and cleaned.
+
 # Description
 
 Many image processing applications make use of digitalized textual data. However, the presence of any type of noise can create difficulties in post-processing information, such as on OCR detection. To improve the information manipulation on such data, a previous image processing step is required.
