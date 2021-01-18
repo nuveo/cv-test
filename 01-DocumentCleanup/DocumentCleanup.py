@@ -58,8 +58,7 @@ def deskew(image):
         angle = angle + 90
     return rotateImage(image, -1.0 * angle)
 
-if __name__ == '__main__':
-
+def main():
     # Busca o diretório atual.
     curr_path = os.getcwd()
     path = curr_path + '/treated_images'
@@ -111,4 +110,7 @@ if __name__ == '__main__':
             # cv2.imshow('thresh', thresh)
             # cv2.imshow('erosion', erosion)
             # cv2.imshow('dilation', dilation)
-            cv2.waitKey()
+            # cv2.waitKey()    
+
+if __name__ == '__main__':
+    main()
