@@ -1,6 +1,6 @@
 # How to execute:
 
-Just type "bash  python/python3 FraudDetection.py" to see the algorithm execute. You will see the load of the images (because of TQDM) and the trainig process (KERAS). At the end of the process you will se the prediction of a image, by the trained model. 
+Just type "bash  python/python3 FraudDetection.py" on terminal, inside the directory, to see the algorithm execute. You will see the load of the images (because of TQDM) and the trainig process (KERAS). At the end of the process you will se the prediction of a image, by the trained model. 
 
 # Description
 
