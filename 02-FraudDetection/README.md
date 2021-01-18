@@ -1,3 +1,7 @@
+# How to execute:
+
+Just type "bash  python/python3 FraudDetection.py" to see the algorithm execute. You will see the load of the images (because of TQDM) and the trainig process (KERAS). At the end of the process you will se the prediction of a image, by the trained model. 
+
 # Description
 
 The collection contains offline signature samples. The images were scanned at 600dpi resolution and cropped with a controlled image region where the signature verification is done.
