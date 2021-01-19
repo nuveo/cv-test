@@ -23,7 +23,8 @@ Finally, the image is saved in the output folder.
 
 ## Running the code
 
-```$ python3 document_cleanup.py <path to input images> -o <output folder name> -e <document file extension>
+```
+$ python3 document_cleanup.py <path to input images> -o <output folder name> -e <document file extension>
 ```
 
 ### Example

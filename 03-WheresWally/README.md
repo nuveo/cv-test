@@ -15,7 +15,8 @@ This strategy worked beautifully and I was satisfied with the results.
 
 ## Running the code
 
-```$ python3 find_wally.py <path to the reference image> <path to the query images> -e <image file extension> -o <output csv filename> --interactive --save-results
+```
+$ python3 find_wally.py <path to the reference image> <path to the query images> -e <image file extension> -o <output csv filename> --interactive --save-results
 ```
 
 ### Example
