@@ -13,8 +13,7 @@ def main():
         print(fname)
         img = cv2.imread(str(fname))
         clean_img = cleaner.clean_document(img)
-        cv2.imshow("clean", clean_img)
-        cv2.waitKey(0)
+        cv2.imwrite(str(output_folder / fname.name), clean_img)
 
 
 if __name__ == '__main__':
