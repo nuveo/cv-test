@@ -16,3 +16,17 @@ The objective of this test is to evaluate the possible image processing methods 
 - The perfect correct result is reached with: 1) white background, 2) black text characters, 3) horizontal text aligment, 4) text block centered in the image and 5) straight text font (not itallic formatting).
 - Do not change the filename when applying your image processing methods. The filename is important for data comparison purposes.
 - The output image file will be only accepted on the following formats: `.png`, `.tif`, `.jpg`
+
+# SOLUTION
+
+The solution applied here was very simple. Since the text is usually darker than the background, an adaptative threshold was enough to remove most of the noise. The parameters of the adaptative threshold were selected empirically. To undo the skew, I used a function available [here](https://towardsdatascience.com/pre-processing-in-ocr-fc231c6035a7). Finally, to remove some of the noise remaining between the lines, I looked for lines with less than 5% black pixels and changed the whole line to white. In my opinion, this step improved the visualization, although sometimes it removes the top or the bottom of some characters.
+
+I tried to apply some low-pass filters but those removed the contrast between text and background and therefore didn't help. I also looked at the Fourier transform, but I didn't see anything helpful.
+
+# How to run
+
+All you have to do is run the script called "process_all.py". The only requirements are opencv and scipy.
+
+# Tests
+
+The repository also includes a few unit tests in a file called "tests.py".
