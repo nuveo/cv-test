@@ -1,0 +1,7 @@
+albumentations
+numpy==1.17.5
+opencv-python==4.4.0.42
+pycocotools==2.0
+torch
+torchvision
+tqdm
