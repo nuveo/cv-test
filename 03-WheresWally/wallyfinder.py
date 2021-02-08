@@ -30,6 +30,9 @@ gpus = tf.config.experimental.list_physical_devices('GPU')
 for gpu in gpus:
     tf.config.experimental.set_memory_growth(gpu, True)
 
+# Disable GPU dynamic memory allocation
+# os.environ['CUDA_VISIBLE_DEVICES'] = '-1'
+
 
 # Set variables
 # ---------------------------------------------------------------------------

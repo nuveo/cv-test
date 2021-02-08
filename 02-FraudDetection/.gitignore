@@ -1,0 +1,12 @@
+.vscode
+/__pycache__
+/logs
+/data/train/disguise
+/data/train/genuine
+/data/train/simulated
+/data/test/disguise
+/data/test/genuine
+/data/test/simulated
+/data/validation/disguise
+/data/validation/genuine
+/data/validation/simulated
