@@ -27,7 +27,8 @@ def add_feature(X, feature_to_add):
 
 # ------------------------------------------------------------------------------------------
 # Read dataset
-df = pd.read_csv('./data/sms-hamspam-train.csv', delimiter=';')
+PATH_CSV = './data/sms-hamspam-train.csv'
+df = pd.read_csv(PATH_CSV, delimiter=';')
 
 # Set Label data to catagorical
 df['label'] = df['label'].astype('category')

@@ -1,9 +1,19 @@
-#  SMS Spam Detection
+# SMS Spam Detection
 
-A solução deste desafio consiste no treinamento de um modelo preditivo para detectar mensagens que são spam ou não.  
+## Description
 
-Para chegar neste resultado foi primeiramente realizado a separação dos dados em conjuntos de treino e teste, respectivamente 80% e 20% dos dados, e foi aplicado um vetorizador TF-IDF para selecionar apenas as palavras que de fato trazem relevância para o modelo.  
+The challenge solution consists of training a predictive model to detect messages that are spam or not.  
 
-Foi utilizado um SVC para realizar a classificação das mensanges utilizadno os dados extraídos do vetorizador. O modelo treinado atinge em media um valor de acurácia de 98%.  
+To achieve this result, the data were previously separated into training and test sets, respectively 80% and 20% of the data, and a TF-IDF vectorizer was selected to select only as words that actually bring importance to the model.  
 
-Ao final é realizado a predição em novas mensagens nunca vistas pelo modelo anteriormente. Essa predição exportada para um arquivo chamado output.csv que se encontra na pasta denominada output.
+An SVC was used to classify the messages using the data extracted from the vectorizer. The trained model averages an accuracy value of 98%.  
+
+At the end, prediction is made on new messages never seen by the model before. This prediction is exported to a file called output.csv which is found in the folder called output.  
+
+## Usage
+
+Install requiriments
+
+```
+pip install -r requirements.txt
+```
