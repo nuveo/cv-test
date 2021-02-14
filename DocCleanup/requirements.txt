@@ -1,0 +1,5 @@
+certifi==2020.12.5
+glob2==0.7
+numpy==1.20.1
+opencv-contrib-python==4.5.1.48
+opencv-python==4.5.1.48
