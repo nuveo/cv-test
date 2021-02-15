@@ -39,14 +39,13 @@ def tokenize(dataFrame, dataset_type='train'):
 
 if __name__ == "__main__":
 
-    if len(sys.argv) < 3:
-        print("\nPlease, pass the path to train and test dataset! Aborting...\n")
-        sys.exit()
+    train_path = '04-SMSSpamDetection/TrainingSet/sms-hamspam-train.csv'
+    test_path = '04-SMSSpamDetection/TestSet/sms-hamspam-test.csv'
     
-    train = pd.read_csv(sys.argv[1], sep='\t', header=None)
+    train = pd.read_csv(train_path, sep='\t', header=None)
     #print(train.head())
 
-    test = pd.read_csv(sys.argv[2], sep='\t', header=None)
+    test = pd.read_csv(test_path, sep='\t', header=None)
     #print(test.head())
 
     tokenized_train = tokenize(train)
@@ -76,7 +75,7 @@ if __name__ == "__main__":
 
     test.insert(0, "",labels, True)
 
-    file_name = (sys.argv[2].split('/'))[-1]
+    file_name = test_path.split('/')[-1]
     file_path = 'results/'
 
     test.to_csv((file_path + file_name), sep='\t', header=None, index=False)

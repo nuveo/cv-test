@@ -15,7 +15,7 @@ pip install -r requirements.txt
 Para rodar o projeto você deve utilizar o seguinte comando:
 
 ```
-python main.py 04-SMSSpamDetection/TrainingSet/sms-hamspam-train.csv 04-SMSSpamDetection/TestSet/sms-hamspam-test.csv
+python main.py
 ```
 
 ## Técnicas utilizadas
