@@ -1,0 +1,14 @@
+version: "2.3"
+services: 
+  spamfilter:
+    image: "spamfilter/nltk:py3"
+    #shm_size: "1gb"
+    build: 
+      context: .
+    volumes:
+      - ../:/workspace
+      - /var/run/docker.sock:/var/run/docker.sock
+    stdin_open: true
+    tty: true
+    working_dir: /workspace
+    command: python3 ./project/main.py
