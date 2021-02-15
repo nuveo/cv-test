@@ -5,7 +5,7 @@ import PreProcessing as pp
 
 if __name__ == "__main__":
 
-    image_list = glob.glob(sys.argv[1] + "/*.png")
+    image_list = glob.glob("01-DocumentCleanup/noisy_data" + "/*.png")
 
     
     denoysed_images = pp.median_filter(image_list)
@@ -15,6 +15,6 @@ if __name__ == "__main__":
 
     rotation_corrected = pp.rotation_correction(binarized_images)
 
-    #dilated = pp.apply_dilation(rotation_corrected)
+    dilated = pp.apply_dilation(rotation_corrected)
 
-    pp.write_images(rotation_corrected, image_list)
+    pp.write_images(dilated, image_list)

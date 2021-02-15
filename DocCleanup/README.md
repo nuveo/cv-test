@@ -5,7 +5,7 @@
 Para rodar o projeto você deve utilizar o seguinte comando:
 
 ```
-python main.py 01-DocumentCleanup/noisy_data/
+python main.py
 ```
 
 Lembre-se de instalar as bibliotecas necessárias contidas em requirements.txt!
