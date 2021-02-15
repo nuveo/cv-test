@@ -15,11 +15,6 @@ if __name__ == "__main__":
 
     rotation_corrected = pp.rotation_correction(binarized_images)
 
-    dilated = pp.apply_dilation(rotation_corrected)
+    #dilated = pp.apply_dilation(rotation_corrected)
 
-    """comparision = np.hstack((cv.bitwise_not(denoysed_images[0]), cv.bitwise_not(binarized_images[0])))
-
-    cv.imshow('Comparision: Denoysed vs. dilated', comparision)
-    cv.waitKey(0)"""
-
-    pp.write_images(dilated, image_list)
+    pp.write_images(rotation_corrected, image_list)

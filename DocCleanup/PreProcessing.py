@@ -107,7 +107,7 @@ def rotation_correction(images_list):
 
 def write_images(images, images_names):
 
-    file_path = '../results/DocCleanup/'
+    file_path = 'results/'
 
     if len(images) != len(images_names):
         print('There is a problem with the imageset provided! Aborting...')

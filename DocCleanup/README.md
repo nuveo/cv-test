@@ -18,7 +18,7 @@ O caminho pode ser absoluto ou relativo. Lembre-se de instalar as bibliotecas ne
 
 ## Resultados Alcançados
 
-Os resultados alcançados podem ser conferidos na pasta "results/DocCleanup".
+Os resultados alcançados podem ser conferidos na pasta "results".
 
 ## Técnicas utilizadas
 

@@ -76,4 +76,7 @@ if __name__ == "__main__":
 
     test.insert(0, "",labels, True)
 
-    test.to_csv(sys.argv[2], sep='\t', header=None, index=False)
+    file_name = (sys.argv[2].split('/'))[-1]
+    file_path = 'results/'
+
+    test.to_csv((file_path + file_name), sep='\t', header=None, index=False)

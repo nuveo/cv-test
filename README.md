@@ -4,7 +4,7 @@
 
 ## Organização do Projeto
 
-As duas pastas contidas neste repositório contém a solução dos problemas "Document Cleanup" e "Where is Wally" propostos pela empresa Nuveo em seu processo seletivo.
+As duas pastas contidas neste repositório contém a solução dos problemas "Document Cleanup" e "SMS Spam Detection" propostos pela empresa Nuveo em seu processo seletivo.
 
 
 ## Dependências

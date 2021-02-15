@@ -1,5 +1,9 @@
 # Spam Detection
 
+## Resultados
+
+O arquivo .csv contendo o dataset de treino com as mensagens classificadas está na pasta results.
+
 ## Rodar o projeto
 
 Lembre-se de instalar as dependências:
