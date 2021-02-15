@@ -15,14 +15,14 @@ pip install -r requirements.txt
 Para rodar o projeto você deve utilizar o seguinte comando:
 
 ```
-python main.py caminho-para-dataset-de-treino caminho-para-dataset-de-teste
+python main.py 04-SMSSpamDetection/TrainingSet/sms-hamspam-train.csv 04-SMSSpamDetection/TestSet/sms-hamspam-test.csv
 ```
 
 ## Técnicas utilizadas
 
 Para solucionar o problema de detecção de mensagens de spam, utilizei o classificador Nayve Bayes.
 
-Utilizei algumas referencias que podem ser conferidas em:
+Utilizei algumas referências que podem ser conferidas em:
 
 https://www.kaggle.com/amitkarmakar41/spamclassifier
 

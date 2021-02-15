@@ -7,7 +7,7 @@ def median_filter(img_list):
 
     for image in img_list:
 
-        image_name = image.split('/')[4]
+        image_name = image.split('/')[2]
         image_number = image_name.split('.')[0]
 
         thisImage = cv.imread(image, 0)
@@ -115,5 +115,5 @@ def write_images(images, images_names):
     
     else:
         for i in range(len(images_names)):           
-            name = images_names[i].split('/')[4]
+            name = images_names[i].split('/')[2]
             cv.imwrite(file_path + name, cv.bitwise_not(images[i]))

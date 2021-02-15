@@ -5,16 +5,11 @@
 Para rodar o projeto você deve utilizar o seguinte comando:
 
 ```
-python main.py caminho-para-as-imagens
+python main.py 01-DocumentCleanup/noisy_data/
 ```
 
-Exemplo:
+Lembre-se de instalar as bibliotecas necessárias contidas em requirements.txt!
 
-```
-python main.py ../01-DocumentCleanup/noisy_data
-```
-
-O caminho pode ser absoluto ou relativo. Lembre-se de instalar as bibliotecas necessárias contidas em requirements.txt!
 
 ## Resultados Alcançados
 
