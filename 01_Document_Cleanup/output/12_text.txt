@@ -1,0 +1,12 @@
+| There are several dassic spalial filters for reducing or elimin
+_feoni images. The mean filler, the median filler and the closing 0
+used, The macau filter is a lowpass or smoothing filler that reps
+the neighborhood-mcan. It reduces the image noise but tlurs the
+filler vitlculates the medlian of the pizcl neighborhood for each 4
+_phurving fect Finally, the-opening losing filter is a mathem
+that combines the same number of erosion and Wilation morpho
+to eliminate small objects from images. > ~~ |
+The main goal was to train a neural nctwork in a supervisca
+image from a noisy one. In this particular case, it was much ea
+noisy image from a clean one than to clean-a subsct of noisy
+

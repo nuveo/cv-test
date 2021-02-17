@@ -1,0 +1,13 @@
+There are several classic spatial filters for. .
+inating high frequency noise from images. -..,
+» the median filter and the closing opening filr ,
+~~ used. The mean filter is a lowpass or sme.
+~ replaces the pixel values with the ncighbort -
+duces the image noise but blurs the image er
+filter calculates the median of the pi el neigls--
+pixel, thereby reducing the blurring effect. Fi
+- closing filter is a mathematical morphologic »
+bines the same number of erosion and dilat
+** operations in order to climinate small object:
+ee . me
+

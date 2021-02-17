@@ -1,0 +1,12 @@
+There are several classic spatial filters for reducing or elimin
+Jrom images. The mean filler, the median filler and the closing o
+used. The mean filter is a loupass or smoothing filler that rep,
+the neighborhood mean. It reduces the image noise but blurs the
+filter calculates the median of the pizel neighborhood for cach 4
+blurring effect. Finally, the opening closing filler 1s a mathem
+that combines the same number of erosion and dilation morpho
+to eliminate small objects from images.
+The main goal was to train a neural network in @ supervisea
+image from a noisy one. In this particular case, it was much ea
+_noisy image from a clean one than to clean a subset of noisy
+

@@ -1,0 +1,13 @@
+There are several classic spatial filters
+eliminating high frequency noise from im
+filter, the median filter and the closing «
+frequently used. The mean filter is a lowp
+filter that replaces the pizel values with
+mean. It reduces the image noise but blurs
+
+_ The median filter calculates the median a
+-borhood for cach pizel, thereby reducing t
+Finally, the opening closing filter is am
+phological filter that combines the same n
+and dilation morphological operations in ¢
+

@@ -1,0 +1,12 @@
+There are Several classic spatit
+‘or eliminating high frequency nois
+The meann-yilter, the median filter |
+“opening filter -are frequently used
+"4s a lowpass or smoothing filter t
+picel values with the weighborhood ,
+' the image noise but blurs 26 mag
+filter calculates the median of th
+for each pixel, thereby reducing t
+Finally, the opening closing filte
+‘morphological filter that combines
+

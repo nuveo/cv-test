@@ -1,0 +1,12 @@
+‘There are severabclassic spatial filters for reducing or limi.
+from images. The mean Gilter, the median filter and the closing 0
+“used. The mican filter is a lowpass or smoothing filter that reph
+the neighborhoodzscan, It reduces the image noise but blurs the
+filter calculates the inedian of the pixel neighborhood for each p
+(blurring, effect? Finally, tho opening tlosing filter is a mathe:
+that combines the same number of erosion and dilation morpho,
+to climinate small objects from images. * ~
+‘The main goal was to train a ncural ‘hetwork in a supervised
+image from a noisy one. iu this particular case, it was much ca
+noisy image from a clean one than to clean’a subsct of noisy’
+

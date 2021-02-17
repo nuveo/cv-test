@@ -1,0 +1,13 @@
+There are several classic spatial itor!
+eliminating high frequency noise from im
+filter, the median filter and the closing c
+frequently used. The mean filter is a lowp
+filter that replaces the pixel values with t
+mean. It reduces the image noise but blurs
+
+_ The median filter calculates the median o
+-borhood for cach pixel, thereby reducing tl
+Finally, the opening closing filter is a mz
+phological filter that combines the same p
+and dilation morphological operations in c
+

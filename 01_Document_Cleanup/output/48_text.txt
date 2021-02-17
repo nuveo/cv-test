@@ -1,0 +1,14 @@
+There are several classic spatial fitters for reducing or elimin
+from images. The mean filter, the median filter and the closing o
+used. The mesn filter is a lowpass or smoothing filter that-replace
+neighborhood meen. It reduces the image noise but blurs the img
+calcu'stes the median of the pixel neighborhood fer each pixel, th
+effect, Finally, the opening closing fitter is_a-mathematical morpho
+“the same number of erosion and dilation morphological eperations
+
+objects from images. - - * : .
+
+The main goal was to train a reural “nctwork in a supervised
+image from a noisy one. In this particular case, it was mucheasier
+image from a clean one than to clean a subsét of no'sy images."
+

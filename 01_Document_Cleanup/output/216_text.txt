@@ -1,0 +1,17 @@
+Thore are sevéral classic Spatial filters
+nigh frequency noise from.images. The mean f
+and the closing opening filter are freqventls
+is a lowpass “or exoothing filter that replace
+with the néighborheod reany. It reduces the 4
+the image edges. The median filter calculate
+pixel neighborhood for cach pixel, thereby re
+effect. Finally, the opening closing filter
+filter that combines the same nitmbur of eros:
+operations in order to elininate small object
+
+The main goal was to train a neural notwor
+to obtain a clean image from a noisy one. Ir
+it was much easier to, cbtain a simulated nois
+‘one than to clean a subset of noisy images.
+sinulated noisy images follows this scheme:
+

@@ -1,0 +1,13 @@
+There are several classic spatial filters for reduc
+frequency noise from inages. Tho xcan filter, the red.
+opening filter are frequently used. The mean filter i:
+filter that replaces the pixel values with the neighbo:
+the image noise but blurs the irage edges. The nedian
+of the pixel neighborhood for each pixel, thereby redu
+Finally, the opening closing filter is a cathezatical 1
+conbines the sate nucber of erosion and dilation morph:
+to elininate szall objects from inages.
+
+The main goal was to train a neural network in a su
+.a clean inage from a noisy one. In this particular ca:
+

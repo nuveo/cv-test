@@ -1,0 +1,13 @@
+There are several classic spatic
+or eliminating high frequency noisy
+The mean filter, the median filter
+opening filter are frequently used ~
+' 4s a Lowpass or smoothing ;1iter t
+_ pizel values with the neiyhborhood
+“the image noise but blurs the imag “
+‘filter calculates the median of th
+for each pixel, thereby reducing t
+Finally, the opening closing filte
+. morphological filter that combines
+oo +
+

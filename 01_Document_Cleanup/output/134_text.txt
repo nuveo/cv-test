@@ -1,0 +1,12 @@
+There exist several methods to di
+fields to be filled in. For instar
+be surrounded by bounding boxes, by
+or by guiding rulers. These methoc
+to write and, therefore, minimize t
+and overlapping with other parts of ~
+" guides can be located on a separate
+ .that is located below the forn or t
+directly on the form. The use of ¢
+sheet is much bettcr from the point
+quality of the scanned image, but 2
+

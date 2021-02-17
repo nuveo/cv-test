@@ -1,0 +1,15 @@
+There are several classic spatial filters
+eliminating high frequency noise from im
+filter, the; median filter and the closing «
+Frequently used. The mean filter ’s a lowp
+
+filter that replaces the pixel valacx with
+imeéan. ft reduccs the tage ‘noise but blurs
+“The median filter calculates the nvdian o
+borhood for each pixel, thereby :educing t
+Finally, the opening closing filter is am.
+phological filter that combines the same n
+and dilation morphological operations in ¢
+
+nor ne . -
+
